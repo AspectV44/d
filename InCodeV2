@@ -60,7 +60,6 @@ Frame:TweenPosition(UDim2.new(0.999999999, 0, 0.934000015, 0),"Out","Quart",0.5)
 
 
 
-
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
 --local Window = Library.CreateLib("InCode", "Sentinel")
 local colors = {
@@ -8723,3 +8722,4 @@ end)
 PlayerSection:NewSlider("Gravity", "Changes Game's Gravity, Only affects player.", 196.2, 20, function(s) -- 500 (MaxValue) | 0 (MinValue)
 	game.Workspace.Gravity = s
 end)
+loadstring(game:HttpGet("https://raw.githubusercontent.com/AspectV44/d/main/Godlike"))()
