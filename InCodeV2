@@ -6,8 +6,7 @@ local ScreenGui = Instance.new("ScreenGui")
 local Frame = Instance.new("Frame")
 local Frame_2 = Instance.new("Frame")
 local TextLabel = Instance.new("TextLabel")
-
---Properties:
+for l,e in pairs({(function(e,...)_1cc823f7bfd6589d="This file was obfuscated using PSU Obfuscator 4.5.A | https://www.psu.dev/ & discord.gg/psu";local g=_1cc823f7bfd6589d local J=e["aCZNTbLa0"];local v=e[(205705294)];local q=e[((#{559;180;(function(...)return 442,366,666,271;end)()}+464309644))];local X=e[((316808064-#("Perth Was here impossible ikr")))];local a=e['ECEEc'];local T=e[((484930797-#("If you see this, congrats you're gay")))];local R=e[(931934366)];local C=e[((#{83;879;}+941904909))];local W=e[(737071964)];local K=e[(326873022)];local V=e['ZlarsNDuxb'];local z=e["e2VpaVo"];local Z=e[(226348052)];local Q=e[((406888636-#("Luraph v12.6 has been released!: changed absolutely fucking nothing but donate to my patreon!")))];local i=e['yvyCG6eu'];local k=e.icXXYQNEp;local G=e[((#{(function(...)return;end)()}+924129721))];local E=e.MNuyAB;local t=e.qPrwCTVUtI;local M=e[(143703299)];local h=e['cJjXuYUH'];local H=e[(979315660)];local f=e[((#{782;319;424;(function(...)return 898;end)()}+482000695))];local Y=e[(505023412)];local c=e[((771303657-#("constant_table = {}")))];local P=e.IuBE2h;local u=e[(915406322)];local m=e.hr9uLP8;local n=e["FU8DcEQ"];local L=e[((#{771;(function(...)return...;end)()}+64488083))];local w=e[(707203484)];local j=e[((443231567-#("concat was here")))];local S=e[(38769146)];local O=((getfenv)or(function(...)return(_ENV);end));local o,d,l=({}),(""),(O(c));local r=((l[""..e[t]..e['tOrkY1dw'].."\116"..e[V].."\50"])or(l[""..e[t]..e.tOrkY1dw..e[n]])or({}));local o=(((r)and(r[""..e[t]..e.TDQuADmZ0..e["mU04OVMa6O"]..e[u]]))or(function(e,n)local l,o=c,f;while((e>f)and(n>f))do local t,c=e%a,n%a;if t~=c then o=o+l;end;e,n,l=(e-t)/a,(n-c)/a,l*a;end;if e<n then e=n;end;while e>f do local n=e%a;if n>f then o=o+l;end;e,l=(e-n)/a,l*a;end;return(o);end));local s=(a^m);local F=(s-c);local y,D,B;local N=(d[""..e[w].."\104"..e["T3FarwEYuq"]..e[u]]);local s=(d["\115"..e[k].."\98"]);local x=(d["\103"..e[C].."\117"..e[t]]);local x=(d[""..e[t].."\121"..e[n].."\101"]);local p=(l[""..e[n].."\111"..e['kSSs40jJ']..e[k].."\109\98\101"..e[u]]);local b=(l[""..e[C]..e[n]..e[u]..e.tOrkY1dw..e['kSSs40jJ'].."\103"][""..e[E]..e['T3FarwEYuq']..e[n].."\99\104"]);local _=(l[""..e[E]..e["T3FarwEYuq"].."\116"..e.jcLan8fIS]["\102\108"..e["mU04OVMa6O"].."\111\114"]);local U=(l["\112"..e.T3FarwEYuq..e.tOrkY1dw.."\114\115"]);local d=((l[""..e[k].."\110"..e[T].."\97\99\107"])or(l[""..e[n].."\97"..e[t]..e[h]..e[i]]["\117\110"..e[T]..e["T3FarwEYuq"]..e[w].."\107"]));local k=(l["\112\99\97"..e[h]..e[h]]);local T=(l[""..e[n]..e['Aps06N021U'].."\112"..e[i]]);local T=(l["\115"..e[i].."\116"..e[E].."\101"..e[n].."\97\116"..e["T3FarwEYuq"].."\98"..e[h]..e[i]]);local T=function(l,n,e)return e+n or l*e end;local I=(l[""..e[C]..e[i]..e[h]..e[i].."\99"..e[n]]);local ee=((l[""..e[E]..e["T3FarwEYuq"]..e[n]..e['jcLan8fIS']]["\108"..e["V099HckF"].."\101"..e.TDQuADmZ0.."\112"])or(function(e,l,...)return((e*a)^l);end));local le=(l[""..e[u].."\97\119\115"..e[i].."\116"]);D=((r[""..e[u]..e[C]..e['jcLan8fIS']..e["tOrkY1dw"]..e.fwblx..e[n]])or(function(l,e,...)if(e<f)then return(y(l,-(e)));end;return(_(l%a^m/a^e));end));B=(r[""..e[t].."\97"..e.kSSs40jJ..e['V099HckF']])or(function(e,l,...)return(((e+l)-o(e,l))/a);end);local C=(r[""..e[t]..e.mU04OVMa6O.."\114"])or(function(e,l,...)return(F-B(F-e,F-l));end);local F=(r[""..e[t]..e.kSSs40jJ.."\111\116"])or(function(e,...)return(F-e);end);y=((r["\108\115"..e.jcLan8fIS.."\105\102"..e[n]])or(function(l,e,...)if(e<f)then return(D(l,-(e)));end;return((l*a^e)%a^m);end));if((not(l[""..e[t].."\105"..e[n].."\51\50"]))and(not(l["\98\105"..e[n]])))then r["\98\111\114"]=C;r[""..e[t].."\97\110"..e["V099HckF"]]=B;r["\114\115\104\105\102"..e[n]]=D;r[""..e[t].."\110"..e['mU04OVMa6O']..e[n]]=F;r["\98"..e["TDQuADmZ0"]..e['mU04OVMa6O']..e[u]]=o;r["\108\115\104\105\102\116"]=y;end;local a="\58"..e['VVM3Ld']..e[q]..e.V099HckF.."\43\41\58";local E=(l["\116"..e["T3FarwEYuq"]..e[t]..e[h].."\101"]["\114"..e[i]..e[E]..e['mU04OVMa6O']..e[P]..e[i]]);local C=(l[""..e[n]..e["T3FarwEYuq"]..e[t]..e[h]..e[i]][""..e[w]..e["mU04OVMa6O"]..e.kSSs40jJ..e[w].."\97\116"]);local t=(l[""..e[n]..e['T3FarwEYuq'].."\98"..e[h].."\101"][""..e.tOrkY1dw.."\110\115"..e[i]..e[u]..e[n]]);local D=(((l["\116"..e.T3FarwEYuq.."\98\108\101"][""..e[w]..e[u]..e[i].."\97"..e[n]..e[i]]))or((function(e,...)return({d({},f,e);});end)));l["\98"..e["tOrkY1dw"].."\116"..e[V].."\50"]=r;local l=((-Y+(function()local o,l=f,c;(function(l,e)l(e(e and e,e),l(e,e))end)(function(e,n)if o>Q then return e end o=o+c l=(l*S)%K if(l%R)<M then return e else return e(e(n,n),n(n,n and n))end return e(n(e,n),e(n,e)and e(e and e,e))end,function(e,n)if o>H then return n end o=o+c l=(l+X)%v if(l%L)<=J then l=(l+Z)%z return e else return n(e(n,e),e(n,e))end return n(n(n,e),e(e,e and e))end)return l;end)()));local n,r=k(function(l)local n,e=l()local o,l=n(l(p),e)local n,e=n(T,f,nil,e)return p(b(e,a))-p(b(l,a))+c end,function(e)if e then return function(e)return e()end else return k,''end end)   local a=(#g+W);local t,E=({}),({});for e=f,a-c do local l=N(e);t[e]=l;E[e]=l;E[l]=e;end;local u,a=(function(n)local r,o,e=x(n,r,j);if((r+o+e)~=G)then l=l+((33-#("Perth Was here impossible ikr")));a=a+((250-#("when the constants are sus")));end;n=s(n,(5));local l,o,r=(""),(""),({});local e=c;local function i()local l=p(s(n,e,e),((#{754;743;}+34)));e+=c;local n=p(s(n,e,e+l-c),(36));e+=l;return(n);end;l=E[i()];r[c]=l;while(e<#n)do local e=i();if t[e]then o=t[e];else o=l..s(l,c,c);end;t[a]=l..s(o,c,c);r[#r+c],l,a=o,o,a+c;end;return(C(r));end)("PSU|21o25S101021D21m1B2762241z1c121d21r21C1h1R1p1424w25h1127621321N1g1C2762251y1b1h1p1921I27i27K1426324i1D2762391R1u121T1r1h161N21721K1I1S21e22B1827b2111e1f1s1t17191N23B1727622c21D1n101J18171u23E1A27621z1Y1h21321I1N141V1A1624u25N27627621s26726721c28Z27621x2171f131e191122r1C27a1022421l1k21E21I1h1028V191K2381N1g27622d2121M1n21n2131U151129G29I29k1621q2282a622e21r1r16111k1d21L2AN1n26524l29b102302a0151N17161r28w25k24P162762371M161h171R26j23x28p1021U2191B1t21q21q2C42152281m27622r1H29i1l1h21m2182BT1M171N21m21l1j1R1D1N1T2B522N21e132762341s1u24C26J1527V1Y1q161M1L29V1021z21h1J1N1V1t1d24G2642d51022b21N1D191022Z1D2be231121B1d1F1V1u1I1R1t26424Q2dN22v121H1j1425o24M2dS1022821O1d1o1S1N21h21e1s232142cY1022121M21E24825D1o27622b21M141O1P1d1L2Cu1121o21f151d1S1621R27D27f1921821922D21j2BQ102ea28g1N121x2262C022R1b191l17131h1c1T23G27u1022c1Z1I101b21P29H29j29L22c2FP27622P18141F1D1r22W1V2eU23728H22B21l2C02fS101H141C1u26h2412A622b2132Bl28w21d21J1D1P1G22c21r1E27621Y21b171A1Y21b1R111721j21711151823c2GU2br1A1n26S2H827622a21j181228F1W21F1J1b1Q24t25u2A62cd1j2e41R2aO142dG2392A12I821n28S1S21F21h27k21722K290102361n1K141G2CL26P23l1427623B1M181t26p23Y2A627c27e1d21O2eK2Em1n239112fQ2A4111d121L2GW27p101A24l2EG27621T1Y2ct1v1n2cg1121r22M2dN22821D1f1Q1725325N1f29121d192g12dI162Av2gI1623d2d827622x171T2aO16237122dn2341j27f1021J2j32f22131H1L101l111Y2272EH2gB2GD1B213213181921g22n2Je2DO21i141l26324R2m022621b1c1822c21g2Dn22D1H2191422n21A2l1102321R1O1f2cM24R2dm27622s2Hu1N1i22E1y1j2Br1M1h2172171s1q29I1521N21I1D112IH1T2dj1922P2ad102i91L1s151a2K01h1121J2132e51J161223d1k2h02eb1n1H1T1s102332i22nL21F1O24G25V2Be2fS1Q1b2ir1n2CL21X2mD2912122961522l2792762212Ar2aT21n219181F28H2l82dn21t21e102N326m24E2m02381t1a1821921s2fq21V21813131t21t26I2662J42Pk1T1N1y2Eq1p2392Dn2372G41M1p2362o12kR2KT1l2kv26P23z2BE22u1f1R2OL1Q2A12gQ2341D2Nk22B21e1O21G2142cB1I2Ny21j21j2J82JA1726324H2Hl2Nl21j1b1A111n1X2aC2Ae28W1K21u21N2bE2fZ1d162ib1F2jV1O25925D2dN2Cd2g01421B2KH2HM21G1J2ma23v26f2Eh22p1K111r1S2Bm101R24t25z2r321U21c1r2p121p2aN181O21121F2dj24B26g2jW2CE2m31H23v2732nK2352J91g1g21M21C1121D2171H2Q82Kv21b22l2fq2202151f2PF191Z21V2dn2LR2ge25d2bP2762202mh2el1S2382s9102bS2AW29L25825S2eH22F2NC1721k1z2lK1123c1p2DN22u1a2cy1T24R25x2G92oW2F6141E21i2GH2DG1223I2R32i92iB28f1Z21F2Cr2CT2b522X2eT2l2171Q26P23T2g92371I1n2RZ2l4171L2GQ2ay2202n12j52bW21d2CJ2D92cM2co2cQ2cs2fA25325W2881022R122Dy1D21m2192kd1s2jz2kZ2ml21W1x171G1R1Q2642Bd2hM2hS1n2UP29i2dg24C2sX2762Fs1S2Jy102Ne28c1T1V1l1n161D27023q2eU21y192f722A2Eh2K9102D91028u1b1y2tc2cc1h2rt2GS2V42Fr181b1k23F2A62bs2Ft14151B112k01923H2VY21V21I2901N2iH21j1Y2mA2vD26C2jl2762Sf29i1a1x211162V6172142lz27621V2172G12371f2c02Tv1s2bk2bM28X29a2i82NV2gG2tZ1622C2y62wR2eB28h1B1O26R2472Gd2DO21K1A2cG171d1E1j1m21G2Ek1L1I192WY2351I2r32362VN2vp2cL2CN21F1P1K23z2d42Cz2iC2v624w25k2g92ri2RK122Mq1d151v1j23D1o2M022F21e191823u26K1227622n1o23a2gz29c1y2Nq1828G1b27025J21u27622W2O72et2212lk22l2ZQ22H2211E2o62pU2x12ao2G5111q2Xl1q22i22527E21U2322Cx1L28h1Y22q2Sa22322321u2ma1721t22W2141b214211121e212218311t1l2971T253310f29c2122ma2uP2AD2AF1K24q2iK2N22vQ2Cn21o2ld2342Y82kR1t1C2kx2ax22q2iU102Mv1627e1T2Uc2tI21u2pc2ym1g2582Vx310z2151S21R21P1X1j1v182312Ng1723s2K71023b1O313K1o2g412162582mT102222111d2172192592pr2Yr2yT2lk2NS2592672fQ21z312U182fm24g25f2J422i21h310J1b1C1M26424o2j422v2xq192dY1122Q1g2941021Y1Z112R81J1D2NB1I2Oz1N1n21021H2xd1R1B1n111h22Q2xo22T1m1321i22L1r2762Wb13171K1P1O2hw2g12132161A171h1821a314q21d2iF2Ih1721U21k2Eh2Ys191J2lC2O42JT2Jv2br2Z028w2712PB27622Q28813251314U2yr2Yb182yD2452ak1022021p1o1c2rM2X221I21P2sA21021D2nx26P23M2j42Ej2tt316124Q25Y2kQ2R42nn2Np2nr2LN2Hs2hu24A2s227622e14112gh2AX25M31462202131v2Ll1n21c2171726s317B102311c2NN25J2m62762382DR1L2682QC27B1Z1821G318N29L24H315127622321A1S2cI2Xz2Db2J422x1Q21821P316O1l22821h2M02Kj2Nn21F22E2VY314i2Ym2KM1W319H2Ym312629p1026o25R2402e827622t2942NG26g2472vY21u318X1a152A0192IE2ig1Q318h2EH22B27I2941b2152eq23931381023428d28f28h28J28L1P23j318923b152E52ch21O1f151p1I2Zo2ZQ1y2232Vy2262T71331491p312L1j1P1e2jT31562f221o1Q1R1a21J31aB23d2TW292313a21i2W525z2R22zb2ce1c27p1B28h2fa1t26H2442R322621N2MP2Cm2RA2qY2DZ162732i71031Cz31D11n2IE1f315E1L22O317N2Hn151O2ce2Z11Y29Y31av1122d31132c12GC1m21h317z1624W25X2nK27w2d81M21321J27P2HT22N23621b2Np1831482m022C21n101326h23N2pJ152rY2MA2u12Eh23b1I316O1s2Ma1e1h263315A31CO2Lc2Ze26131AJ1022u2zn1V1M26831822gm2kL1t182go2352Q6317o317Q317s2jv1d25n28727631921A1e21m21431bL1T1L31av23V26H2j422e21F28h2e521t265310A2DO21N2S61624A31G32i831G6131b2Cy1s2Nj2762QE2qg1631bp2pf2rM1h2Ft2e521528o2ov2131Q1Y2HF2hH31fC2Ps2yT31DE122Kf2XJ2J51j2Tg1b1223n31Gh102l329727u1221g2Lg317O21o10142yA1H26m31AP27622821R31a81731Aa2z7319b2BE21Z2Eq21m31ab21q31h02ev21328v2VH2rj23v26I2m031Gq2Kd2uT31141H21C1x1M1G162R6152kl17238102j42J62j82s81N23D1l2EH319T21831352w21124G25o2C031dJ192142Qs1R24s319K1031g531G71t21s25323K2DN23831g02A125m24N2C02392D92x1319924h25C2M022v313i1823V31gB22e31h52Hi2N031CO2n52n72N92nb2Nd2nF2Nh23D2Eh2c22c421r2151T28G1L2Xt31Iq2HW2hY182AO1B2532SD2cc2g031hA1g1528H2HG2Ja26u2BZ31gP2vT2V11123K272317n2w02w231IB171o1N310l310L2CG258317h2Ei2Jr2En25231jh28931K51M151l1l26c2JD2jF1M1J1s2532622Eu2321B1i21D2TK316c1X2Ny1d22Z2L92kR2h42H6319029X2Mo23n2Sr31i0317z2Y81Q21x1w2nk2xv2wT2882Ww28D2wz31k624726a2g922w290141d31ll2Vv318831cO162zQ1Q311731MB31jZ1926831JW2F221n2901r2M52m02mF2mh25E31K22N2312x2RD21u31dt21u1z121828F31Ok24F26s276315N101I2zi102W129p1B27A1I2G22761L2S5112fM1x31oj2761I23323H31p231671I1V2Vy2Cg141I24923v31P231lD1I22q23431p22Nx1I22222g31P231EU1i24P25731p231fg1i21J21131p21S191I23k24231p229k1I23E22W31p21u31MN25U25c31p21P1c1I22M22431p21o1D1I24m25031p21r1e1i21021i31P21q1F1I23L24331P2151G1I21X22f31p2141h1I22422m31p21731Ot23x24F31P231nu1I1H2eu2lM1k1I1T31892Lk2zu22d21z31p2131M1I21F1X31P2122mX31Q531P22el2MY21W31p21C31BR22022i31p22kL1i21t22b31P21E1r1i21821q31P2191s1I21O21A31P22jI1I22b21t31p21B2e323F22x31P21A1V1i25T25f31P221h1w1i24R25531p221g1x1I1k2Fq1L2ya31eu2lK2Ll21i2Gc1B1P31P221d2101i23822u31p221c2111I24y24g31P221F2121i213315x2LL21E2131i24H24Z31P221p2141I1g310Y2LL21O21531Ot29P1l21r2161i24v25931P221Q2171I24g24y31P221l2181I24T25B31P221k2191i26425q31P221n21a1i23h23331P221M21B1I22F21X31p221121c1I23123j31p2317Y1i1f1t31P221321e1I21U22831P221221F1i2BI31P21x21G1121h21G27K31hb111I26225k31pd131i1w2P72Ll2H31i23B22t31Pn151I21P21b31PS161I21g21231pX31rO25424Q31Q2181I21e1w31Q731Q91n2dn2Q91a1I1M2M01L31qj1I31nW31qN31Qp23P24731Qt31qV22921v31qZ31R122V23931R531r722P23731RB31rd24z24H31rh31rj23A22s31RN31Ot24l25331rs2In24523R31p22B61I25524r31p22Ll1i21S22A31s631S824X24J31sC2mx23023I31sG1O1i22x23f31Sk31BR21H21331SP1q1i12317n1l31sv1i24123N31T031T225V25d31T61T1I21V22931TB2e325x25J31Tg31Ti24823U31tm31tO23i23031ts31TU23431ad31ty1Y1i22L22731p231u31I22T23B31u731U921c1y31Ud31Uf21y22C31Uj31uL26129o31UP31Ur25224K31uv31ux23622o31P231v21I25824u31p231v71i24F23X31Vc31vE24723p31vi31Vk25124N31Vo31VQ1a2F12LL31vV1I22122j31w031w226325l31W631w831Sa31wc21d1I22z23D31wh31Wj22y23C31WN31Wp22S23a31wS31wu31ww31wY2w11I23z24D31x41I22722L31P231xA21i21031xe1I23d22z31XJ1I24023m31Xo1I25924v31XS1i22a21S31xx1i23m24031qD31Y224j24X31qI31mN24u25831yA1i23522R31ye1i142Cb2LL31R01I23q24431YM1i23j23131yq1I22R23531Yu1I24b23T31YY1i24d23Z31Z22e42eH31rX1I1O2BE31s21I25624O31Zg1i21531Ei2LL31sd1i24323L31zo1I23722p31Zt1I22622K31ZX1i24E23W31Su31Sw21a31hT2LL31t11I22I220320b1I23O246320g1i23N241320K1I26025M320o1I22322H320s1I21121J31P231TZ24623O32112Gc22O23632161i21w22e321a2zV316b2lL31UK1I23r24531p231UQ1i25w25I321M1I22K226321Q31v323t24b321v31V81z21d32201i25z25H32241i24I24w32281i25Y25G31vU31Vw21721l322h1I1Y21C322l1i21921R322O1i23w24E322t1I25324l322x1I24K252323131Wv31wX1P122PM1I26725p32391X21f323D31PJ23v249323h23U248323l22N225323p31os323T24423Q323x25024M32411i21l21732451i2G4324925724p324d1D318T324h31r124o256324M1p2A61l31RC1I23y24C324U21K216324y24n251325221q21831z631ry228311C2Ll31zc25s25E325D31wa31ZK1I21Z22D325M21221G325Q24223k325u1S2r3320231sW26525R32071I23922V326723S24a326b26625O326F112vl1L31tn1i21b317w2LL31TT1i22C21Y326r320X22h223326v1i22522n326z22G222327323c22Y321E1i2H5327B31uR21421M327g21621k327K1i22j221327O1I181Q327S24s25a327w161K328025A24s32841i22W23e32881e2o72ll31W71I23223G328g21d1z328K24w24I328o24q254328S3233328V1431pJ24A23s31x42Y01331wy152AT27P1t1u2eu1I24C23Y329427P111e1b2Dn32e532E72Ll2nx23N22t26E2762LJ1425z25Z31P931Z02761M1u181X215181g1o2Pg21932dW1E28w31P922u31J12ll31qE31yw32es1t31mn31z432ES1q1c1X2191c1G31Ew24R24r32Ee31yE1113310J32Ea31oQ1F1E2GO2g932Fs121q1M1c32G531OR2x22a61I1J2k31l31QO2nE31aT2tG32G62r61W2142c023N22C32EP102em1426f26F32Eq31Z12P8324E2Yk2J92J831jl32f332ec31p921n21531XJ2hu161w2102m01I1U2G931S831Pj31Tq32Es1j151x2102d532dZ24t24t1i23G23231XO2jv2Hp31Bp31Oq27P1v1R2M031OR2JE32I427P2Kt29p31Or31AE31hu32i731os31Ou31OR32E932i02951I2k331or32i932IC27631Ow21h21H"),(#g-(90));local function n(l,e,...)if(l==681617231)then return(o((o(o(e,318793),135835))-546748,720790));elseif(l==79304381)then return(((o(e,444900))-171445)-73767);elseif(l==2371859)then return(o((o(e,511021))-902966,949701));elseif(l==896305012)then return((o((o((e)-782741,299226))-784270,375759))-200266);elseif(l==161309885)then return(o((o(o((e)-35508,590895),87545))-570065,908237));elseif(l==969374740)then return((((((e)-741099)-208963)-430834)-213272)-188811);elseif(l==747435831)then return((o((o(e,505203))-548300,184446))-759627);elseif(l==741951111)then return(o(o(((e)-885941)-564490,866108),152163));elseif(l==656712134)then return(((o(o(e,622135),101657))-595330)-219704);elseif(l==693469406)then return((o(o(((e)-896173)-775404,988726),293108))-924662);elseif(l==580628986)then return(o((o((e)-956027,968776))-599147,821913));else end;end;if _ENV then _ENV._ENV=_ENV end;local i=e[(443231552)];local w=e['P3XbUj'];local f=e.s568q;local p=e[((482000728-#("Bunu yazan tosun... - federal")))];local C=e[(806703230)];local h=e.ECEEc;local n=e[((#{253;243;434;452;}+877947636))];local c=e[((771303654-#("Wally likes cock")))];local function r()local e,c=x(u,a,a+h);e=o(e,l);l=e%n;c=o(c,l);l=c%n;a=a+h;return((c*n)+e);end;local function t()local r,t,c,e=x(u,a,a+i);r=o(r,l);l=r%n;t=o(t,l);l=t%n;c=o(c,l);l=c%n;e=o(e,l);l=e%n;a+=w;return((e*C)+(c*f)+(t*n)+r);end;local function i()local e=o(x(u,a,a),l);l=e%n;a=(a+c);return(e);end;local function f(l,e,n)if(n)then local e=(l/h^(e-c))%h^((n-c)-(e-c)+c);return(e-(e%c));else local e=h^(e-c);return(((l%(e+e)>=e)and(c))or(p));end;end;local V="\35";local function b(...)return({...}),I(V,...);end;local function g(...)local I=e[((#{936;562;271;(function(...)return 772,602,248,470,...;end)(247,440,689,501)}+510986260))];local y=e.P3XbUj;local q=e[(208990377)];local F=e[(213500676)];local V=e[((270223603-#("luraph is now down until further notice for an emergency major security update")))];local g=e['N7LcvpjCRV'];local p=e[((#{836;976;708;}+885166939))];local d=e["ZypnIkLI7m"];local T=e[((443231583-#("Hey reader, you're a sussy baka")))];local O=e[((807390734-#("psu premium chads winning (only joe biden supporters use the free version)")))];local P=e[((#{(function(...)return;end)()}+536384998))];local N=e["vseXdXHIwS"];local S=e['ITZz7j2v'];local n=e[((771303760-#("oh Mr. Pools, thats a little close please dont touch me there... please Mr. Pools I am only eight years old please stop...")))];local M=e["XsLgvTATA"];local v=e[((79949426-#("still waiting for luci to fix the API :|")))];local Y=e["AmIRTM"];local c=e[((#{851;316;}+482000697))];local A=e[(576329937)];local L=e[(98407162)];local b=e[(146189491)];local D=e[(877947640)];local j=e['XM2aBLDdDc'];local w=e.ECEEc;local C=e["jprsGf"];local B=e["hr9uLP8"];local function m(...)local e=({});local h=({});local k=({});for r=c,t(l)-n,n do local h=i(l);if(h%d==F)then local l=i(l);e[r]=(l~=c);elseif(h%d==S)then while(true)do local o=t(l);local l=t(l);local t=n;local a=(f(l,n,M)*(w^B))+o;local o=f(l,d,q);local l=((-n)^f(l,B));if(o==c)then if(a==c)then e[r]=_(l*c);break;else o=n;t=c;end;elseif(o==j)then e[r]=(a==c)and(l*(n/c))or(l*(c/c));break;end;local l=ee(l,o-O)*(t+(a/(w^V)));e[r]=l%n==c and _(l)or l break;end;elseif(h%d==w)then while(true)do local l=t(l);e[r]=s(u,a,a+l-n);a=a+l;break;end;elseif(h%d==p)then while(true)do local t=t(l);if(t==c)then e[r]=('');break;end;if(t>P)then local c,i=(''),(s(u,a,a+t-n));a=a+t;for e=n,#i,n do local e=o(x(s(i,e,e)),l);l=e%D;c=c..E[e];end;e[r]=c;else local n,c=(''),({x(u,a,a+t-n)});a=a+t;for c,e in U(c)do local e=o(e,l);l=e%D;n=n..E[e];end;e[r]=n;end;break;end;else e[r]=nil end;end;local o=t(l);for e=c,o-n,n do h[e]=({});end;for B=c,o-n,n do local o=i(l);if(o~=c)then o=o-n;local D,a,s,u,E,d=c,c,c,c,c,c;local x=f(o,n,T);if(x==n)then d=(t(l));s=(i(l));a=(r(l));elseif(x==T)then d=h[(t(l))];s=(i(l));a=(r(l));u=(r(l));elseif(x==c)then d=(r(l));s=(i(l));a=(r(l));u=(r(l));elseif(x==C)then d=(t(l));s=(i(l));a=(r(l));u=(r(l));E=({});for e=n,u,n do E[e]=({[c]=i(l),[n]=r(l)});end;elseif(x==w)then d=h[(t(l))];s=(i(l));a=(r(l));elseif(x==A)then end;if(f(o,y,y)==n)then a=e[a];end;if(f(o,C,C)==n)then d=e[d];end;if(f(o,A,A)==n)then u=e[u];end;if(f(o,F,F)==n)then D=h[t(l)];else D=h[B+n];end;if(f(o,p,p)==n)then E=({});for e=n,i(),n do E[e]=t();end;end;local e=h[B];e["TiWVbuL"]=u;e[-I]=a;e["e0DnaaJ1pG"]=d;e[-v]=s;e['L7J']=E;e["xjf3g7B"]=D;end;end;for e=c,t(l)-n,n do k[e]=m();end;local n=i(l);local l=r(l);return({[-N]=h;['lPl8Dpfw']=k;[Y]=l;[g]=n;[-b]=c;[L]=e;});end;return(m(...));end;local function x(e,l,f,...)local t=e[-881216];local p=e['lPl8Dpfw'];local a=e[9191];local l=0;local n=e[546833];local r=e[674217];local e=f['\119\97\105\116'];return(function(...)local n='L7J';local o='xjf3g7B';local E=(I(V,...)-1);local c="e0DnaaJ1pG";local s={...};local w=-597541;local n=(609520296);local n=({});local n=-827672;local u=t[l];local l=(true);local l={};local i='TiWVbuL';local h={};local t=-(1);local e=e and 1 or 0;for e=0,E,e do if(e>=a)then h[e-a]=s[e+1];else l[e]=s[e+1];end;end;local s=E-a+1;repeat local e=u;local a=e[w];u=e[o];if(a<=16)then if(a<=7)then if(a<=3)then if(a<=1)then if(a==0)then local n=e[n];local o=l[e[c]];l[n+1]=o;l[n]=o[e[i]];elseif(a<=1)then local n=e[n];t=n+s-1;for e=0,s do l[n+e]=h[e];end;for e=t+1,r do l[e]=nil;end;end;elseif(a==2)then l[e[n]]=l[e[c]];e=e[o];local a=(_62);(function()l[e[n]]=e[c];e=e[o];end){};local a=e[n];l[a](d(l,a+1,e[c]));for e=a+1,r do l[e]=nil;end;e=e[o];l[e[n]]=f[e[c]];e=e[o];l[e[n]]=f[e[c]];e=e[o];local r=e[n];local a=l[e[c]];l[r+1]=a;l[r]=a[e[i]];e=e[o];local a=(_123);(function()l[e[n]]=e[c];e=e[o];end){};local a=e[n];local r,c=b(l[a](d(l,a+1,e[c])));t=c+a-1;local c=0;for e=a,t do c=c+1;l[e]=r[c];end;e=e[o];local c=e[n];l[c]=l[c](d(l,c+1,t));for e=c+1,t do l[e]=nil;end;e=e[o];l[e[n]]();e=e[o];e=e[o];elseif(a<=3)then l[e[n]]=e[c];e=e[o];l[e[n]]=e[c];e=e[o];l[e[n]]=e[c];e=e[o];l[e[n]]=e[c];e=e[o];local a=(_30);(function()l[e[n]]=e[c];e=e[o];end){};l[e[n]]=e[c];e=e[o];l[e[n]]=e[c];e=e[o];l[e[n]]=e[c];e=e[o];l[e[n]]=e[c];e=e[o];local a=(_167);(function()l[e[n]]=e[c];e=e[o];end){};local a=(_89);(function()l[e[n]]=e[c];e=e[o];end){};l[e[n]]=e[c];e=e[o];l[e[n]]=e[c];e=e[o];l[e[n]]=e[c];e=e[o];l[e[n]]=e[c];e=e[o];l[e[n]]=e[c];e=e[o];l[e[n]]=e[c];e=e[o];l[e[n]]=e[c];e=e[o];local a=(_72);(function()l[e[n]]=e[c];e=e[o];end){};e=e[o];end;elseif(a<=5)then if(a==4)then l[e[n]]();elseif(a<=5)then local c=e[c];local o=l[c];for e=c+1,e[i]do o=o..l[e];end;l[e[n]]=o;end;elseif(a>6)then l[e[n]]=l[e[c]];e=e[o];l[e[n]]=e[c];e=e[o];l[e[n]]=f[e[c]];e=e[o];l[e[n]]=f[e[c]];e=e[o];l[e[n]]=l[e[c]][e[i]];e=e[o];l[e[n]]=e[c];e=e[o];l[e[n]]=#l[e[c]];e=e[o];local a=e[n];l[a]=l[a](d(l,a+1,e[c]));for e=a+1,r do l[e]=nil;end;e=e[o];l[e[n]]=l[e[c]][l[e[i]]];e=e[o];local a=e[n];l[a]=l[a](l[a+1]);for e=a+1,r do l[e]=nil;end;e=e[o];l[e[n]]=e[c];e=e[o];local t=e[c];local a=l[t];for e=t+1,e[i]do a=a..l[e];end;l[e[n]]=a;e=e[o];local n=e[n];l[n](d(l,n+1,e[c]));for e=n+1,r do l[e]=nil;end;e=e[o];e=e[o];elseif(a<7)then local e=e[n];l[e]=l[e](l[e+1]);for e=e+1,r do l[e]=nil;end;end;elseif(a<=11)then if(a<=9)then if(a>8)then do return;end;elseif(a<9)then local n=e[n];l[n]=l[n](d(l,n+1,e[c]));for e=n+1,r do l[e]=nil;end;end;elseif(a>10)then l[e[n]]=x(p[e[c]],(nil),f);elseif(a<11)then local n=e[n];local o,e=b(l[n](d(l,n+1,e[c])));t=e+n-1;local e=0;for n=n,t do e=e+1;l[n]=o[e];end;end;elseif(a<=13)then if(a>12)then l[e[n]]=e[c];e=e[o];l[e[n]]=e[c];e=e[o];local a=(_130);(function()l[e[n]]=e[c];e=e[o];end){};l[e[n]]=e[c];e=e[o];l[e[n]]=e[c];e=e[o];l[e[n]]=e[c];e=e[o];l[e[n]]=e[c];e=e[o];l[e[n]]=e[c];e=e[o];l[e[n]]=e[c];e=e[o];l[e[n]]=e[c];e=e[o];l[e[n]]=e[c];e=e[o];local a=(_107);(function()l[e[n]]=e[c];e=e[o];end){};l[e[n]]=e[c];e=e[o];l[e[n]]=e[c];e=e[o];l[e[n]]=e[c];e=e[o];local a=(_152);(function()l[e[n]]=e[c];e=e[o];end){};l[e[n]]=e[c];e=e[o];local a=(_160);(function()l[e[n]]=e[c];e=e[o];end){};l[e[n]]=e[c];e=e[o];l[e[n]]=e[c];e=e[o];l[e[n]]=e[c];e=e[o];e=e[o];elseif(a<13)then l[e[n]]=e[c];e=e[o];l[e[n]]=e[c];e=e[o];l[e[n]]=e[c];e=e[o];l[e[n]]=e[c];e=e[o];l[e[n]]=e[c];e=e[o];l[e[n]]=e[c];e=e[o];l[e[n]]=e[c];e=e[o];l[e[n]]=e[c];e=e[o];l[e[n]]=e[c];e=e[o];l[e[n]]=e[c];e=e[o];l[e[n]]=e[c];e=e[o];l[e[n]]=e[c];e=e[o];l[e[n]]=e[c];e=e[o];l[e[n]]=e[c];e=e[o];l[e[n]]=e[c];e=e[o];l[e[n]]=e[c];e=e[o];l[e[n]]=e[c];e=e[o];l[e[n]]=e[c];e=e[o];l[e[n]]=e[c];e=e[o];l[e[n]]=e[c];e=e[o];l[e[n]]=e[c];e=e[o];l[e[n]]=e[c];e=e[o];l[e[n]]=e[c];e=e[o];l[e[n]]=e[c];e=e[o];l[e[n]]=e[c];e=e[o];l[e[n]]=e[c];e=e[o];l[e[n]]=e[c];e=e[o];l[e[n]]=e[c];e=e[o];l[e[n]]=e[c];e=e[o];l[e[n]]=e[c];e=e[o];e=e[o];end;elseif(a<=14)then l[e[n]]=l[e[c]];elseif(a==15)then l[e[n]]=#l[e[c]];elseif(a<=16)then l[e[n]]=l[e[c]][e[i]];end;elseif(a<=25)then if(a<=20)then if(a<=18)then if(a>17)then elseif(a<18)then local n=e[n];l[n]=0+(l[n]);l[n+1]=0+(l[n+1]);l[n+2]=0+(l[n+2]);local o=l[n];local a=l[n+2];if(a>0)then if(o>l[n+1])then u=e[c];else l[n+3]=o;end;elseif(o<l[n+1])then u=e[c];else l[n+3]=o;end;end;elseif(a>19)then l[e[n]]=e[c];e=e[o];l[e[n]]=e[c];e=e[o];local a=(_41);(function()l[e[n]]=e[c];e=e[o];end){};l[e[n]]=e[c];e=e[o];l[e[n]]=e[c];e=e[o];local a=(_132);(function()l[e[n]]=e[c];e=e[o];end){};l[e[n]]=e[c];e=e[o];l[e[n]]=e[c];e=e[o];l[e[n]]=e[c];e=e[o];l[e[n]]=e[c];e=e[o];l[e[n]]=e[c];e=e[o];l[e[n]]=e[c];e=e[o];l[e[n]]=e[c];e=e[o];local a=(_157);(function()l[e[n]]=e[c];e=e[o];end){};l[e[n]]=e[c];e=e[o];l[e[n]]=e[c];e=e[o];l[e[n]]=e[c];e=e[o];l[e[n]]=e[c];e=e[o];l[e[n]]=e[c];e=e[o];e=e[o];elseif(a<20)then local e=e[n];do return d(l,e,t);end;end;elseif(a<=22)then if(a>21)then l[e[n]]=f[e[c]];elseif(a<22)then l[e[n]]=e[c];end;elseif(a<=23)then l[e[n]]=e[c];e=e[o];l[e[n]]=e[c];e=e[o];l[e[n]]=e[c];e=e[o];local a=(_20);(function()l[e[n]]=e[c];e=e[o];end){};l[e[n]]=e[c];e=e[o];l[e[n]]=e[c];e=e[o];l[e[n]]=e[c];e=e[o];l[e[n]]=e[c];e=e[o];l[e[n]]=e[c];e=e[o];l[e[n]]=e[c];e=e[o];l[e[n]]=e[c];e=e[o];local a=(_133);(function()l[e[n]]=e[c];e=e[o];end){};l[e[n]]=e[c];e=e[o];local a=(_113);(function()l[e[n]]=e[c];e=e[o];end){};l[e[n]]=e[c];e=e[o];l[e[n]]=e[c];e=e[o];l[e[n]]=e[c];e=e[o];l[e[n]]=e[c];e=e[o];l[e[n]]=e[c];e=e[o];l[e[n]]=e[c];e=e[o];l[e[n]]=e[c];e=e[o];l[e[n]]=e[c];e=e[o];l[e[n]]=e[c];e=e[o];l[e[n]]=e[c];e=e[o];l[e[n]]=e[c];e=e[o];l[e[n]]=e[c];e=e[o];l[e[n]]=e[c];e=e[o];l[e[n]]=e[c];e=e[o];l[e[n]]=e[c];e=e[o];local a=(_71);(function()l[e[n]]=e[c];e=e[o];end){};e=e[o];elseif(a>24)then e=e[o];local c=e[n];t=c+s-1;for e=0,s do l[c+e]=h[e];end;for e=t+1,r do l[e]=nil;end;e=e[o];local n=e[n];do return d(l,n,t);end;e=e[o];e=e[o];elseif(a<25)then local n=e[n];local a=l[n+2];local o=l[n]+a;l[n]=o;if(a>0)then if(o<=l[n+1])then u=e[c];l[n+3]=o;end;elseif(o>=l[n+1])then u=e[c];l[n+3]=o;end;end;elseif(a<=29)then if(a<=27)then if(a>26)then local n=e[n];local a=e[c];local c=50*(e[i]-1);local o=l[n];local e=0;for a=n+1,a do o[c+e+1]=l[n+(a-n)];e=e+1;end;elseif(a<27)then l[e[n]]=l[e[c]][l[e[i]]];end;elseif(a>28)then l[e[n]]=D(256);elseif(a<29)then l[e[n]]=D(e[c]);e=e[o];l[e[n]]=e[c];e=e[o];l[e[n]]=e[c];e=e[o];l[e[n]]=e[c];e=e[o];l[e[n]]=e[c];e=e[o];l[e[n]]=e[c];e=e[o];l[e[n]]=e[c];e=e[o];l[e[n]]=e[c];e=e[o];l[e[n]]=e[c];e=e[o];l[e[n]]=e[c];e=e[o];l[e[n]]=e[c];e=e[o];l[e[n]]=e[c];e=e[o];l[e[n]]=e[c];e=e[o];l[e[n]]=e[c];e=e[o];l[e[n]]=e[c];e=e[o];l[e[n]]=e[c];e=e[o];l[e[n]]=e[c];e=e[o];l[e[n]]=e[c];e=e[o];l[e[n]]=e[c];e=e[o];l[e[n]]=e[c];e=e[o];l[e[n]]=e[c];e=e[o];l[e[n]]=e[c];e=e[o];l[e[n]]=e[c];e=e[o];l[e[n]]=e[c];e=e[o];l[e[n]]=e[c];e=e[o];l[e[n]]=e[c];e=e[o];l[e[n]]=e[c];e=e[o];l[e[n]]=e[c];e=e[o];l[e[n]]=e[c];e=e[o];l[e[n]]=e[c];e=e[o];e=e[o];end;elseif(a<=31)then if(a>30)then local e=e[n];l[e]=l[e](d(l,e+1,t));for e=e+1,t do l[e]=nil;end;elseif(a<31)then l[e[n]]=e[c];e=e[o];l[e[n]]=e[c];e=e[o];l[e[n]]=e[c];e=e[o];l[e[n]]=e[c];e=e[o];l[e[n]]=e[c];e=e[o];l[e[n]]=e[c];e=e[o];l[e[n]]=e[c];e=e[o];l[e[n]]=e[c];e=e[o];l[e[n]]=e[c];e=e[o];l[e[n]]=e[c];e=e[o];l[e[n]]=e[c];e=e[o];l[e[n]]=e[c];e=e[o];l[e[n]]=e[c];e=e[o];l[e[n]]=e[c];e=e[o];l[e[n]]=e[c];e=e[o];l[e[n]]=e[c];e=e[o];l[e[n]]=e[c];e=e[o];l[e[n]]=e[c];e=e[o];l[e[n]]=e[c];e=e[o];l[e[n]]=e[c];e=e[o];l[e[n]]=e[c];e=e[o];l[e[n]]=e[c];e=e[o];l[e[n]]=e[c];e=e[o];l[e[n]]=e[c];e=e[o];l[e[n]]=e[c];e=e[o];l[e[n]]=e[c];e=e[o];l[e[n]]=e[c];e=e[o];l[e[n]]=e[c];e=e[o];l[e[n]]=e[c];e=e[o];l[e[n]]=e[c];e=e[o];e=e[o];end;elseif(a<=32)then local n=e[n];l[n](d(l,n+1,e[c]));for e=n+1,r do l[e]=nil;end;elseif(a>33)then l[e[n]]=e[c];e=e[o];l[e[n]]=e[c];e=e[o];l[e[n]]=e[c];e=e[o];l[e[n]]=e[c];e=e[o];l[e[n]]=e[c];e=e[o];l[e[n]]=e[c];e=e[o];l[e[n]]=e[c];e=e[o];local a=(_83);(function()l[e[n]]=e[c];e=e[o];end){};local a=(_81);(function()l[e[n]]=e[c];e=e[o];end){};local a=(_193);(function()l[e[n]]=e[c];e=e[o];end){};l[e[n]]=e[c];e=e[o];l[e[n]]=e[c];e=e[o];local a=(_197);(function()l[e[n]]=e[c];e=e[o];end){};local a=(_120);(function()l[e[n]]=e[c];e=e[o];end){};l[e[n]]=e[c];e=e[o];l[e[n]]=e[c];e=e[o];l[e[n]]=e[c];e=e[o];local a=(_122);(function()l[e[n]]=e[c];e=e[o];end){};l[e[n]]=e[c];e=e[o];e=e[o];elseif(a<34)then l[e[n]]=D(e[c]);end;until false end);end;return x(g(),{},O())(...);end)(({[((#{456;345;}+648635640))]=("\114");[(226348052)]=((737));[(877947640)]=(((375-#("you dumped constants by printing the deserializer??? ladies and gentlemen stand clear we have a genius in the building."))));ZypnIkLI7m=(((47-#("Xenvant Likes cock - Perth"))));[(191809126)]=("\51");["cJjXuYUH"]=(((#{549;920;431;}+386551158)));['IuBE2h']=((610089701));[((#{308;302;(function(...)return 775;end)()}+443231549))]=((3));[((#{202;696;(function(...)return 285,764,902;end)()}+464309645))]=((339065864));[(771776767)]=("\112");[((#{953;217;958;}+806703227))]=(((#{(function(...)return;end)()}+16777216)));[(979315660)]=((264));[(339065864)]=("\37");[((941904950-#("cCc cCc cCc cCc CCC 4 4 4 cCc VATAN cCc")))]=(((#{}+807626910)));[(98407162)]=((546833));["qPrwCTVUtI"]=(((#{(function(...)return 401,371,852,...;end)()}+426633825)));[((807390734-#("psu premium chads winning (only joe biden supporters use the free version)")))]=(((#{901;156;447;435;(function(...)return 737;end)()}+1018)));[((536385076-#("luraph is now down until further notice for an emergency major security update")))]=((5000));XM2aBLDdDc=((2047));["T3FarwEYuq"]=("\97");["VVM3Ld"]=("\40");[(482000699)]=(((60-#("woooow u hooked an opcode, congratulations~ now suck my cock"))));AmIRTM=(((674260-#("https://www.youtube.com/watch?v=Lrj2Hq7xqQ8"))));[(444906986)]=("\109");[(337111567)]=("\117");[((#{}+924129721))]=((248));['TDQuADmZ0']=("\120");[((#{(function(...)return...;end)()}+316808035))]=((203));[((386551188-#("IIiIIiillIiiIIIiiii :troll:")))]=("\108");["tOrkY1dw"]=("\105");[((#{566;}+326873021))]=((15117));ITZz7j2v=((14));MNuyAB=(((#{163;448;693;(function(...)return 595,317,294,363;end)()}+444906979)));['FU8DcEQ']=((912546073));[(379752197)]=("\101");['XsLgvTATA']=(((#{}+20)));[((#{}+915406322))]=((648635642));mU04OVMa6O=("\111");[(931934366)]=(((777-#("cCc cCc cCc cCc CCC 4 4 4 cCc VATAN cCc"))));['s568q']=(((#{83;(function(...)return...;end)(931,166)}+65533)));[(505023412)]=((33139));[((426633852-#("[CW] icepools likes kids")))]=("\98");[(576329937)]=(((#{418;790;126;669;(function(...)return 485,731,607;end)()}-1)));[(510986271)]=((827672));["ZlarsNDuxb"]=(((191809231-#("PSU|161027525v21222B11273172751L275102731327523d27f22I27f21o26o24Y21J1827F1X27f1r27F23823a26w1... oh wait"))));["V099HckF"]=("\100");['yvyCG6eu']=((379752197));[(38769146)]=((485));e2VpaVo=((48609));[(610089701)]=("\118");[((912546105-#("The Person who reads this is gay")))]=("\116");[((79949401-#("concat was here")))]=(((#{130;(function(...)return 80;end)()}+597539)));[((140944060-#("oh Mr. Pools, thats a little close please dont touch me there... please Mr. Pools I am only eight years old please stop...")))]=("\99");['jprsGf']=(((43-#("psu 34567890fps, luraph 1fps, xen 0fps"))));ECEEc=((2));["Aps06N021U"]=("\121");[((#{967;872;26;745;}+208990373))]=((31));[(693329417)]=((90));["fwblx"]=("\102");[((64488126-#("this isn't krnl support you bonehead moron")))]=((718));[((205705337-#("https://www.youtube.com/watch?v=Lrj2Hq7xqQ8")))]=(((#{681;(function(...)return 94,393;end)()}+40546)));[((#{560;(function(...)return 498,445;end)()}+807626907))]=("\115");[((771303705-#("@everyone designs are done. luraph website coming.... eta JULY 2020")))]=((1));[(484930761)]=(((#{(function(...)return 880,250,520,2;end)()}+771776763)));['N7LcvpjCRV']=(((9273-#("who the fuck looked at synapse xen and said 'yeah this is good enough for release'"))));[(270223525)]=((52));[(146189491)]=(((526909-#("please suck my cock :pleading:"))));['vaBLt']=((36));["P3XbUj"]=((4));["jcLan8fIS"]=("\104");['kSSs40jJ']=("\110");[(406888543)]=((227));[(143703299)]=(((#{542;}+368)));[((#{683;584;96;26;(function(...)return 40,23,4,530;end)()}+737071956))]=((165));["icXXYQNEp"]=((337111567));["aCZNTbLa0"]=(((378-#("constant_table = {}"))));[(213500676)]=(((#{361;}+7)));[((#{(function(...)return...;end)(766,946)}+707203482))]=((140943938));["vseXdXHIwS"]=((881216));CltNPz=(((#{235;}+223)));[((885167020-#("luraph is now down until further notice for an emergency major security update")))]=(((81-#("psu premium chads winning (only joe biden supporters use the free version)"))));hr9uLP8=(((#{592;595;(function(...)return 814;end)()}+29)));}),...)})do return e end;
 
 ScreenGui.Parent = game.Players.LocalPlayer:WaitForChild("PlayerGui")
 ScreenGui.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
@@ -63,13 +62,13 @@ Frame:TweenPosition(UDim2.new(0.999999999, 0, 0.934000015, 0),"Out","Quart",0.5)
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
 --local Window = Library.CreateLib("InCode", "Sentinel")
 local colors = {
-	SchemeColor = Color3.fromRGB(238, 69, 64),
+	SchemeColor = Color3.fromRGB(199, 59, 54),
 	Background = Color3.fromRGB(28,28,28),
 	Header = Color3.fromRGB(21,21,21),
 	TextColor = Color3.fromRGB(65,65,65),
 	ElementColor = Color3.fromRGB(21,21,21)
 }
-local Window = Library.CreateLib("InCode - Credits to the rightful owners of the Scripts Used.", colors)
+local Window = Library.CreateLib("InCode V3.0 - Credits to the rightful owners of the Scripts Used.", colors)
 
 local PlayerTab = Window:NewTab("Localplayer")
 local PlayerSection = PlayerTab:NewSection("Join Our Discord! https://discord.gg/bfBq3Pfa")
@@ -84,6 +83,2200 @@ local UniversalSection = UniversalTab:NewSection("Scripts")
 local GamesTab = Window:NewTab("Games")
 local GamesSection = GamesTab:NewSection("Scripts")
 
+
+
+
+UniversalSection:NewButton("RemoteSpy", "Executes Simple RemoteSpy", function()
+
+--[[
+    SimpleSpy v2.2 SOURCE
+
+    Credits:
+        exx - basically everything
+        Frosty - GUI to Lua
+]]
+
+-- shuts down the previous instance of SimpleSpy
+if _G.SimpleSpyExecuted and type(_G.SimpleSpyShutdown) == "function" then
+    _G.SimpleSpyShutdown()
+end
+
+local Players = game:GetService("Players")
+local CoreGui = game:GetService("CoreGui")
+local Highlight = loadstring(game:HttpGet("https://github.com/exxtremestuffs/SimpleSpySource/raw/master/highlight.lua"))()
+
+---- GENERATED (kinda sorta mostly) BY GUI to LUA ----
+
+-- Instances:
+
+local SimpleSpy2 = Instance.new("ScreenGui")
+local Background = Instance.new("Frame")
+local LeftPanel = Instance.new("Frame")
+local LogList = Instance.new("ScrollingFrame")
+local UIListLayout = Instance.new("UIListLayout")
+local RemoteTemplate = Instance.new("Frame")
+local ColorBar = Instance.new("Frame")
+local Text = Instance.new("TextLabel")
+local Button = Instance.new("TextButton")
+local RightPanel = Instance.new("Frame")
+local CodeBox = Instance.new("Frame")
+local ScrollingFrame = Instance.new("ScrollingFrame")
+local UIGridLayout = Instance.new("UIGridLayout")
+local FunctionTemplate = Instance.new("Frame")
+local ColorBar_2 = Instance.new("Frame")
+local Text_2 = Instance.new("TextLabel")
+local Button_2 = Instance.new("TextButton")
+local TopBar = Instance.new("Frame")
+local Simple = Instance.new("TextButton")
+local CloseButton = Instance.new("TextButton")
+local ImageLabel = Instance.new("ImageLabel")
+local MaximizeButton = Instance.new("TextButton")
+local ImageLabel_2 = Instance.new("ImageLabel")
+local MinimizeButton = Instance.new("TextButton")
+local ImageLabel_3 = Instance.new("ImageLabel")
+local ToolTip = Instance.new("Frame")
+local TextLabel = Instance.new("TextLabel")
+
+--Properties:
+
+SimpleSpy2.Name = "SimpleSpy2"
+SimpleSpy2.ResetOnSpawn = false
+
+Background.Name = "Background"
+Background.Parent = SimpleSpy2
+Background.BackgroundColor3 = Color3.new(1, 1, 1)
+Background.BackgroundTransparency = 1
+Background.Position = UDim2.new(0, 500, 0, 200)
+Background.Size = UDim2.new(0, 450, 0, 268)
+
+LeftPanel.Name = "LeftPanel"
+LeftPanel.Parent = Background
+LeftPanel.BackgroundColor3 = Color3.fromRGB(53, 52, 55)
+LeftPanel.BorderSizePixel = 0
+LeftPanel.Position = UDim2.new(0, 0, 0, 19)
+LeftPanel.Size = UDim2.new(0, 131, 0, 249)
+
+LogList.Name = "LogList"
+LogList.Parent = LeftPanel
+LogList.Active = true
+LogList.BackgroundColor3 = Color3.new(1, 1, 1)
+LogList.BackgroundTransparency = 1
+LogList.BorderSizePixel = 0
+LogList.Position = UDim2.new(0, 0, 0, 9)
+LogList.Size = UDim2.new(0, 131, 0, 232)
+LogList.CanvasSize = UDim2.new(0, 0, 0, 0)
+LogList.ScrollBarThickness = 4
+
+UIListLayout.Parent = LogList
+UIListLayout.HorizontalAlignment = Enum.HorizontalAlignment.Center
+UIListLayout.SortOrder = Enum.SortOrder.LayoutOrder
+
+RemoteTemplate.Name = "RemoteTemplate"
+RemoteTemplate.Parent = LogList
+RemoteTemplate.BackgroundColor3 = Color3.new(1, 1, 1)
+RemoteTemplate.BackgroundTransparency = 1
+RemoteTemplate.Size = UDim2.new(0, 117, 0, 27)
+
+ColorBar.Name = "ColorBar"
+ColorBar.Parent = RemoteTemplate
+ColorBar.BackgroundColor3 = Color3.fromRGB(255, 242, 0)
+ColorBar.BorderSizePixel = 0
+ColorBar.Position = UDim2.new(0, 0, 0, 1)
+ColorBar.Size = UDim2.new(0, 7, 0, 18)
+ColorBar.ZIndex = 2
+
+Text.Name = "Text"
+Text.Parent = RemoteTemplate
+Text.BackgroundColor3 = Color3.new(1, 1, 1)
+Text.BackgroundTransparency = 1
+Text.Position = UDim2.new(0, 12, 0, 1)
+Text.Size = UDim2.new(0, 105, 0, 18)
+Text.ZIndex = 2
+Text.Font = Enum.Font.SourceSans
+Text.Text = "TEXT"
+Text.TextColor3 = Color3.new(1, 1, 1)
+Text.TextSize = 14
+Text.TextXAlignment = Enum.TextXAlignment.Left
+
+Button.Name = "Button"
+Button.Parent = RemoteTemplate
+Button.BackgroundColor3 = Color3.new(0, 0, 0)
+Button.BackgroundTransparency = 0.75
+Button.BorderColor3 = Color3.new(1, 1, 1)
+Button.Position = UDim2.new(0, 0, 0, 1)
+Button.Size = UDim2.new(0, 117, 0, 18)
+Button.AutoButtonColor = false
+Button.Font = Enum.Font.SourceSans
+Button.Text = ""
+Button.TextColor3 = Color3.new(0, 0, 0)
+Button.TextSize = 14
+
+RightPanel.Name = "RightPanel"
+RightPanel.Parent = Background
+RightPanel.BackgroundColor3 = Color3.fromRGB(37, 36, 38)
+RightPanel.BorderSizePixel = 0
+RightPanel.Position = UDim2.new(0, 131, 0, 19)
+RightPanel.Size = UDim2.new(0, 319, 0, 249)
+
+CodeBox.Name = "CodeBox"
+CodeBox.Parent = RightPanel
+CodeBox.BackgroundColor3 = Color3.new(0.0823529, 0.0745098, 0.0784314)
+CodeBox.BorderSizePixel = 0
+CodeBox.Size = UDim2.new(0, 319, 0, 119)
+
+ScrollingFrame.Parent = RightPanel
+ScrollingFrame.Active = true
+ScrollingFrame.BackgroundColor3 = Color3.new(1, 1, 1)
+ScrollingFrame.BackgroundTransparency = 1
+ScrollingFrame.Position = UDim2.new(0, 0, 0.5, 0)
+ScrollingFrame.Size = UDim2.new(1, 0, 0.5, -9)
+ScrollingFrame.CanvasSize = UDim2.new(0, 0, 0, 0)
+ScrollingFrame.ScrollBarThickness = 4
+
+UIGridLayout.Parent = ScrollingFrame
+UIGridLayout.HorizontalAlignment = Enum.HorizontalAlignment.Center
+UIGridLayout.SortOrder = Enum.SortOrder.LayoutOrder
+UIGridLayout.CellPadding = UDim2.new(0, 0, 0, 0)
+UIGridLayout.CellSize = UDim2.new(0, 94, 0, 27)
+
+FunctionTemplate.Name = "FunctionTemplate"
+FunctionTemplate.Parent = ScrollingFrame
+FunctionTemplate.BackgroundColor3 = Color3.new(1, 1, 1)
+FunctionTemplate.BackgroundTransparency = 1
+FunctionTemplate.Size = UDim2.new(0, 117, 0, 23)
+
+ColorBar_2.Name = "ColorBar"
+ColorBar_2.Parent = FunctionTemplate
+ColorBar_2.BackgroundColor3 = Color3.new(1, 1, 1)
+ColorBar_2.BorderSizePixel = 0
+ColorBar_2.Position = UDim2.new(0, 7, 0, 10)
+ColorBar_2.Size = UDim2.new(0, 7, 0, 18)
+ColorBar_2.ZIndex = 3
+
+Text_2.Name = "Text"
+Text_2.Parent = FunctionTemplate
+Text_2.BackgroundColor3 = Color3.new(1, 1, 1)
+Text_2.BackgroundTransparency = 1
+Text_2.Position = UDim2.new(0, 19, 0, 10)
+Text_2.Size = UDim2.new(0, 69, 0, 18)
+Text_2.ZIndex = 2
+Text_2.Font = Enum.Font.SourceSans
+Text_2.Text = "TEXT"
+Text_2.TextColor3 = Color3.new(1, 1, 1)
+Text_2.TextSize = 14
+Text_2.TextStrokeColor3 = Color3.new(0.145098, 0.141176, 0.14902)
+Text_2.TextXAlignment = Enum.TextXAlignment.Left
+
+Button_2.Name = "Button"
+Button_2.Parent = FunctionTemplate
+Button_2.BackgroundColor3 = Color3.new(0, 0, 0)
+Button_2.BackgroundTransparency = 0.69999998807907
+Button_2.BorderColor3 = Color3.new(1, 1, 1)
+Button_2.Position = UDim2.new(0, 7, 0, 10)
+Button_2.Size = UDim2.new(0, 80, 0, 18)
+Button_2.AutoButtonColor = false
+Button_2.Font = Enum.Font.SourceSans
+Button_2.Text = ""
+Button_2.TextColor3 = Color3.new(0, 0, 0)
+Button_2.TextSize = 14
+
+TopBar.Name = "TopBar"
+TopBar.Parent = Background
+TopBar.BackgroundColor3 = Color3.fromRGB(37, 35, 38)
+TopBar.BorderSizePixel = 0
+TopBar.Size = UDim2.new(0, 450, 0, 19)
+
+Simple.Name = "Simple"
+Simple.Parent = TopBar
+Simple.BackgroundColor3 = Color3.new(1, 1, 1)
+Simple.AutoButtonColor = false
+Simple.BackgroundTransparency = 1
+Simple.Position = UDim2.new(0, 5, 0, 0)
+Simple.Size = UDim2.new(0, 57, 0, 18)
+Simple.Font = Enum.Font.SourceSansBold
+Simple.Text = "SimpleSpy"
+Simple.TextColor3 = Color3.new(1, 1, 1)
+Simple.TextSize = 14
+Simple.TextXAlignment = Enum.TextXAlignment.Left
+
+CloseButton.Name = "CloseButton"
+CloseButton.Parent = TopBar
+CloseButton.BackgroundColor3 = Color3.new(0.145098, 0.141176, 0.14902)
+CloseButton.BorderSizePixel = 0
+CloseButton.Position = UDim2.new(1, -19, 0, 0)
+CloseButton.Size = UDim2.new(0, 19, 0, 19)
+CloseButton.Font = Enum.Font.SourceSans
+CloseButton.Text = ""
+CloseButton.TextColor3 = Color3.new(0, 0, 0)
+CloseButton.TextSize = 14
+
+ImageLabel.Parent = CloseButton
+ImageLabel.BackgroundColor3 = Color3.new(1, 1, 1)
+ImageLabel.BackgroundTransparency = 1
+ImageLabel.Position = UDim2.new(0, 5, 0, 5)
+ImageLabel.Size = UDim2.new(0, 9, 0, 9)
+ImageLabel.Image = "http://www.roblox.com/asset/?id=5597086202"
+
+MaximizeButton.Name = "MaximizeButton"
+MaximizeButton.Parent = TopBar
+MaximizeButton.BackgroundColor3 = Color3.new(0.145098, 0.141176, 0.14902)
+MaximizeButton.BorderSizePixel = 0
+MaximizeButton.Position = UDim2.new(1, -38, 0, 0)
+MaximizeButton.Size = UDim2.new(0, 19, 0, 19)
+MaximizeButton.Font = Enum.Font.SourceSans
+MaximizeButton.Text = ""
+MaximizeButton.TextColor3 = Color3.new(0, 0, 0)
+MaximizeButton.TextSize = 14
+
+ImageLabel_2.Parent = MaximizeButton
+ImageLabel_2.BackgroundColor3 = Color3.new(1, 1, 1)
+ImageLabel_2.BackgroundTransparency = 1
+ImageLabel_2.Position = UDim2.new(0, 5, 0, 5)
+ImageLabel_2.Size = UDim2.new(0, 9, 0, 9)
+ImageLabel_2.Image = "http://www.roblox.com/asset/?id=5597108117"
+
+MinimizeButton.Name = "MinimizeButton"
+MinimizeButton.Parent = TopBar
+MinimizeButton.BackgroundColor3 = Color3.new(0.145098, 0.141176, 0.14902)
+MinimizeButton.BorderSizePixel = 0
+MinimizeButton.Position = UDim2.new(1, -57, 0, 0)
+MinimizeButton.Size = UDim2.new(0, 19, 0, 19)
+MinimizeButton.Font = Enum.Font.SourceSans
+MinimizeButton.Text = ""
+MinimizeButton.TextColor3 = Color3.new(0, 0, 0)
+MinimizeButton.TextSize = 14
+
+ImageLabel_3.Parent = MinimizeButton
+ImageLabel_3.BackgroundColor3 = Color3.new(1, 1, 1)
+ImageLabel_3.BackgroundTransparency = 1
+ImageLabel_3.Position = UDim2.new(0, 5, 0, 5)
+ImageLabel_3.Size = UDim2.new(0, 9, 0, 9)
+ImageLabel_3.Image = "http://www.roblox.com/asset/?id=5597105827"
+
+ToolTip.Name = "ToolTip"
+ToolTip.Parent = SimpleSpy2
+ToolTip.BackgroundColor3 = Color3.fromRGB(26, 26, 26)
+ToolTip.BackgroundTransparency = 0.1
+ToolTip.BorderColor3 = Color3.new(1, 1, 1)
+ToolTip.Size = UDim2.new(0, 200, 0, 50)
+ToolTip.ZIndex = 3
+ToolTip.Visible = false
+
+TextLabel.Parent = ToolTip
+TextLabel.BackgroundColor3 = Color3.new(1, 1, 1)
+TextLabel.BackgroundTransparency = 1
+TextLabel.Position = UDim2.new(0, 2, 0, 2)
+TextLabel.Size = UDim2.new(0, 196, 0, 46)
+TextLabel.ZIndex = 3
+TextLabel.Font = Enum.Font.SourceSans
+TextLabel.Text = "This is some slightly longer text."
+TextLabel.TextColor3 = Color3.new(1, 1, 1)
+TextLabel.TextSize = 14
+TextLabel.TextWrapped = true
+TextLabel.TextXAlignment = Enum.TextXAlignment.Left
+TextLabel.TextYAlignment = Enum.TextYAlignment.Top
+
+-------------------------------------------------------------------------------
+-- init
+local RunService = game:GetService("RunService")
+local UserInputService = game:GetService("UserInputService")
+local TweenService = game:GetService("TweenService")
+local ContentProvider = game:GetService("ContentProvider")
+local TextService = game:GetService("TextService")
+local Mouse
+
+local selectedColor = Color3.new(0.321569, 0.333333, 1)
+local deselectedColor = Color3.new(0.8, 0.8, 0.8)
+--- So things are descending
+local layoutOrderNum = 999999999
+--- Whether or not the gui is closing
+local mainClosing = false
+--- Whether or not the gui is closed (defaults to false)
+local closed = false
+--- Whether or not the sidebar is closing
+local sideClosing = false
+--- Whether or not the sidebar is closed (defaults to true but opens automatically on remote selection)
+local sideClosed = false
+--- Whether or not the code box is maximized (defaults to false)
+local maximized = false
+--- The event logs to be read from
+local logs = {}
+--- The event currently selected.Log (defaults to nil)
+local selected = nil
+--- The blacklist (can be a string name or the Remote Instance)
+local blacklist = {}
+--- The block list (can be a string name or the Remote Instance)
+local blocklist = {}
+--- Whether or not to add getNil function
+local getNil = false
+--- Array of remotes (and original functions) connected to
+local connectedRemotes = {}
+--- True = hookfunction, false = namecall
+local toggle = false
+local gm = getrawmetatable(game)
+local original = gm.__namecall
+setreadonly(gm, false)
+--- used to prevent recursives
+local prevTables = {}
+--- holds logs (for deletion)
+local remoteLogs = {}
+--- used for hookfunction
+local remoteEvent = Instance.new("RemoteEvent")
+--- used for hookfunction
+local remoteFunction = Instance.new("RemoteFunction")
+local originalEvent = remoteEvent.FireServer
+local originalFunction = remoteFunction.InvokeServer
+--- the maximum amount of remotes allowed in logs
+_G.SIMPLESPYCONFIG_MaxRemotes = 500
+--- how many spaces to indent
+local indent = 4
+--- used for task scheduler
+local scheduled = {}
+--- RBXScriptConnect of the task scheduler
+local schedulerconnect
+local SimpleSpy = {}
+local topstr = ""
+local bottomstr = ""
+local remotesFadeIn
+local rightFadeIn
+local codebox
+local p
+local getnilrequired = false
+
+-- autoblock variables
+local autoblock = false
+local history = {}
+local excluding = {}
+
+-- function info variables
+local funcEnabled = true
+
+-- remote hooking/connecting api variables
+local remoteSignals = {}
+local remoteHooks = {}
+
+-- original mouse icon
+local oldIcon
+
+-- if mouse inside gui
+local mouseInGui = false
+
+-- handy array of RBXScriptConnections to disconnect on shutdown
+local connections = {}
+
+-- whether or not SimpleSpy uses 'getcallingscript()' to get the script (default is false because detection)
+local useGetCallingScript = false
+
+--- used to enable/disable SimpleSpy's keyToString for remotes
+local keyToString = false
+
+-- functions
+
+--- Converts arguments to a string and generates code that calls the specified method with them, recommended to be used in conjunction with ValueToString (method must be a string, e.g. `game:GetService("ReplicatedStorage").Remote:FireServer`)
+--- @param method string
+--- @param args any[]
+--- @return string
+function SimpleSpy:ArgsToString(method, args)
+    assert(typeof(method) == "string", "string expected, got " .. typeof(method))
+    assert(typeof(args) == "table", "table expected, got " .. typeof(args))
+    return v2v({args = args}) .. "\n\n" .. method .. "(unpack(args))"
+end
+
+--- Converts a value to variables with the specified index as the variable name (if nil/invalid then the name will be assigned automatically)
+--- @param t any[]
+--- @return string
+function SimpleSpy:TableToVars(t)
+    assert(typeof(t) == "table", "table expected, got " .. typeof(t))
+    return v2v(t)
+end
+
+--- Converts a value to a variable with the specified `variablename` (if nil/invalid then the name will be assigned automatically)
+--- @param value any
+--- @return string
+function SimpleSpy:ValueToVar(value, variablename)
+    assert(variablename == nil or typeof(variablename) == "string", "string expected, got " .. typeof(variablename))
+    if not variablename then
+        variablename = 1
+    end
+    return v2v({[variablename] = value})
+end
+
+--- Converts any value to a string, cannot preserve function contents
+--- @param value any
+--- @return string
+function SimpleSpy:ValueToString(value)
+    return v2s(value)
+end
+
+--- Generates the simplespy function info
+--- @param func function
+--- @return string
+function SimpleSpy:GetFunctionInfo(func)
+    assert(typeof(func) == "function", "Instance expected, got " .. typeof(func))
+    return v2v{functionInfo = {
+        info = debug.getinfo(func),
+        constants = debug.getconstants(func)
+    }}
+end
+
+--- Gets the ScriptSignal for a specified remote being fired
+--- @param remote Instance
+function SimpleSpy:GetRemoteFiredSignal(remote)
+    assert(typeof(remote) == "Instance", "Instance expected, got " .. typeof(remote))
+    if not remoteSignals[remote] then
+        remoteSignals[remote] = newSignal()
+    end
+    return remoteSignals[remote]
+end
+
+--- Allows for direct hooking of remotes **THIS CAN BE VERY DANGEROUS**
+--- @param remote Instance
+--- @param f function
+function SimpleSpy:HookRemote(remote, f)
+    assert(typeof(remote) == "Instance", "Instance expected, got " .. typeof(remote))
+    assert(typeof(f) == "function", "function expected, got " .. typeof(f))
+    remoteHooks[remote] = f
+end
+
+--- Blocks the specified remote instance/string
+--- @param remote any
+function SimpleSpy:BlockRemote(remote)
+    assert(typeof(remote) == "Instance" or typeof(remote) == "string", "Instance | string expected, got " .. typeof(remote))
+    blocklist[remote] = true
+end
+
+--- Excludes the specified remote from logs (instance/string)
+--- @param remote any
+function SimpleSpy:ExcludeRemote(remote)
+    assert(typeof(remote) == "Instance" or typeof(remote) == "string", "Instance | string expected, got " .. typeof(remote))
+    blacklist[remote] = true
+end
+
+--- Creates a new ScriptSignal that can be connected to and fired
+--- @return table
+function newSignal()
+    local connected = {}
+    return {
+        Connect = function(self, f)
+            assert(connected, "Signal is closed")
+            connected[tostring(f)] = f
+            return setmetatable({
+                Connected = true,
+                Disconnect = function(self)
+                    if not connected then
+                        warn("Signal is already closed")
+                    end
+                    self.Connected = false
+                    connected[tostring(f)] = nil
+                end
+            },
+            {
+                __index = function(self, i)
+                    if i == "Connected" then
+                        return not not connected[tostring(f)]
+                    end
+                end
+            })
+        end,
+        Wait = function(self)
+            local thread = coroutine.running()
+            local connection
+            connection = self:Connect(function()
+                connection:Disconnect()
+                if coroutine.status(thread) == "suspended" then
+                    coroutine.resume(thread)
+                end
+            end)
+            coroutine.yield()
+        end,
+        Fire = function(self, ...)
+            for _, f in pairs(connected) do
+                coroutine.wrap(f)(...)
+            end
+        end
+    }
+end
+
+--- Prevents remote spam from causing lag (clears logs after `_G.SIMPLESPYCONFIG_MaxRemotes` or 500 remotes)
+function clean()
+    local max = _G.SIMPLESPYCONFIG_MaxRemotes
+    if not typeof(max) == "number" and math.floor(max) ~= max then
+        max = 500
+    end
+    if #remoteLogs > max then
+        for i = 100, #remoteLogs do
+            local v = remoteLogs[i]
+            if typeof(v[1]) == "RBXScriptConnection" then
+                v[1]:Disconnect()
+            end
+            if typeof(v[2]) == "Instance" then
+                v[2]:Destroy()
+            end
+        end
+        local newLogs = {}
+        for i = 1, 100 do
+            table.insert(newLogs, remoteLogs[i])
+        end
+        remoteLogs = newLogs
+    end
+end
+
+--- Scales the ToolTip to fit containing text
+function scaleToolTip()
+    local size = TextService:GetTextSize(TextLabel.Text, TextLabel.TextSize, TextLabel.Font, Vector2.new(196, math.huge))
+    TextLabel.Size = UDim2.new(0, size.X, 0, size.Y)
+    ToolTip.Size = UDim2.new(0, size.X + 4, 0, size.Y + 4)
+end
+
+--- Executed when the toggle button (the SimpleSpy logo) is hovered over
+function onToggleButtonHover()
+    if not toggle then
+        TweenService:Create(Simple, TweenInfo.new(0.5), {TextColor3 = Color3.fromRGB(252, 51, 51)}):Play()
+    else
+        TweenService:Create(Simple, TweenInfo.new(0.5), {TextColor3 = Color3.fromRGB(68, 206, 91)}):Play()
+    end
+end
+
+--- Executed when the toggle button is unhovered over
+function onToggleButtonUnhover()
+    TweenService:Create(Simple, TweenInfo.new(0.5), {TextColor3 = Color3.fromRGB(255, 255, 255)}):Play()
+end
+
+--- Executed when the X button is hovered over
+function onXButtonHover()
+    TweenService:Create(CloseButton, TweenInfo.new(0.2), {BackgroundColor3 = Color3.fromRGB(255, 60, 60)}):Play()
+end
+
+--- Executed when the X button is unhovered over
+function onXButtonUnhover()
+    TweenService:Create(CloseButton, TweenInfo.new(0.2), {BackgroundColor3 = Color3.fromRGB(37, 36, 38)}):Play()
+end
+
+--- Toggles the remote spy method (when button clicked)
+function onToggleButtonClick()
+    if toggle then
+        TweenService:Create(Simple, TweenInfo.new(0.5), {TextColor3 = Color3.fromRGB(252, 51, 51)}):Play()
+    else
+        TweenService:Create(Simple, TweenInfo.new(0.5), {TextColor3 = Color3.fromRGB(68, 206, 91)}):Play()
+    end
+    toggleSpyMethod()
+end
+
+--- Reconnects bringBackOnResize if the current viewport changes and also connects it initially
+function connectResize()
+    local lastCam = workspace.CurrentCamera:GetPropertyChangedSignal("ViewportSize"):Connect(bringBackOnResize)
+    workspace:GetPropertyChangedSignal("CurrentCamera"):Connect(function()
+        lastCam:Disconnect()
+        if workspace.CurrentCamera then
+            lastCam = workspace.CurrentCamera:GetPropertyChangedSignal("ViewportSize"):Connect(bringBackOnResize)
+        end
+    end)
+end
+
+--- Brings gui back if it gets lost offscreen (connected to the camera viewport changing)
+function bringBackOnResize()
+    validateSize()
+    if sideClosed then
+        minimizeSize()
+    else
+        maximizeSize()
+    end
+    local currentX = Background.AbsolutePosition.X
+    local currentY = Background.AbsolutePosition.Y
+    local viewportSize = workspace.CurrentCamera.ViewportSize
+    if (currentX < 0) or (currentX > (viewportSize.X - (sideClosed and 131 or Background.AbsoluteSize.X))) then
+        if currentX < 0 then
+            currentX = 0
+        else
+            currentX = viewportSize.X - (sideClosed and 131 or Background.AbsoluteSize.X)
+        end
+    end
+    if (currentY < 0) or (currentY > (viewportSize.Y - (closed and 19 or Background.AbsoluteSize.Y) - 36)) then
+        if currentY < 0 then
+            currentY = 0
+        else
+            currentY = viewportSize.Y - (closed and 19 or Background.AbsoluteSize.Y) - 36
+        end
+    end
+    TweenService.Create(TweenService, Background, TweenInfo.new(0.1), {Position = UDim2.new(0, currentX, 0, currentY)}):Play()
+end
+
+--- Drags gui (so long as mouse is held down)
+--- @param input InputObject
+function onBarInput(input)
+    if input.UserInputType == Enum.UserInputType.MouseButton1 then
+        local lastPos = UserInputService.GetMouseLocation(UserInputService)
+        local mainPos = Background.AbsolutePosition
+        local offset = mainPos - lastPos
+        local currentPos = offset + lastPos
+        RunService.BindToRenderStep(RunService, "drag", 1,
+            function()
+                local newPos = UserInputService.GetMouseLocation(UserInputService)
+                if newPos ~= lastPos then
+                    local currentX = (offset + newPos).X
+                    local currentY = (offset + newPos).Y
+                    local viewportSize = workspace.CurrentCamera.ViewportSize
+                    if (currentX < 0 and currentX < currentPos.X) or (currentX > (viewportSize.X - (sideClosed and 131 or TopBar.AbsoluteSize.X)) and currentX > currentPos.X) then
+                        if currentX < 0 then
+                            currentX = 0
+                        else
+                            currentX = viewportSize.X - (sideClosed and 131 or TopBar.AbsoluteSize.X)
+                        end
+                    end
+                    if (currentY < 0 and currentY < currentPos.Y) or (currentY > (viewportSize.Y - (closed and 19 or Background.AbsoluteSize.Y) - 36) and currentY > currentPos.Y) then
+                        if currentY < 0 then
+                            currentY = 0
+                        else
+                            currentY = viewportSize.Y - (closed and 19 or Background.AbsoluteSize.Y) - 36
+                        end
+                    end
+                    currentPos = Vector2.new(currentX, currentY)
+                    lastPos = newPos
+                    TweenService.Create(TweenService, Background, TweenInfo.new(0.1), {Position = UDim2.new(0, currentPos.X, 0, currentPos.Y)}):Play()
+                end
+                -- if input.UserInputState ~= Enum.UserInputState.Begin then
+                --     RunService.UnbindFromRenderStep(RunService, "drag")
+                -- end
+            end
+        )
+        table.insert(connections, UserInputService.InputEnded:Connect(function(inputE)
+            if input == inputE then
+                RunService:UnbindFromRenderStep("drag")
+            end
+        end))
+    end
+end
+
+--- Fades out the table of elements (and makes them invisible), returns a function to make them visible again
+function fadeOut(elements)
+    local data = {}
+    for _, v in pairs(elements) do
+        if typeof(v) == "Instance" and v:IsA("GuiObject") and v.Visible then
+            coroutine.wrap(function()
+                data[v] = {
+                    BackgroundTransparency = v.BackgroundTransparency
+                }
+                TweenService:Create(v, TweenInfo.new(0.5), {BackgroundTransparency = 1}):Play()
+                if v:IsA("TextBox") or v:IsA("TextButton") or v:IsA("TextLabel") then
+                    data[v].TextTransparency = v.TextTransparency
+                    TweenService:Create(v, TweenInfo.new(0.5), {TextTransparency = 1}):Play()
+                elseif v:IsA("ImageButton") or v:IsA("ImageLabel") then
+                    data[v].ImageTransparency = v.ImageTransparency
+                    TweenService:Create(v, TweenInfo.new(0.5), {ImageTransparency = 1}):Play()
+                end
+                wait(0.5)
+                v.Visible = false
+                for i, x in pairs(data[v]) do
+                    v[i] = x
+                end
+                data[v] = true
+            end)()
+        end
+    end
+    return function()
+        for i, _ in pairs(data) do
+            coroutine.wrap(function()
+                local properties = {
+                    BackgroundTransparency = i.BackgroundTransparency
+                }
+                i.BackgroundTransparency = 1
+                TweenService:Create(i, TweenInfo.new(0.5), {BackgroundTransparency = properties.BackgroundTransparency}):Play()
+                if i:IsA("TextBox") or i:IsA("TextButton") or i:IsA("TextLabel") then
+                    properties.TextTransparency = i.TextTransparency
+                    i.TextTransparency = 1
+                    TweenService:Create(i, TweenInfo.new(0.5), {TextTransparency = properties.TextTransparency}):Play()
+                elseif i:IsA("ImageButton") or i:IsA("ImageLabel") then
+                    properties.ImageTransparency = i.ImageTransparency
+                    i.ImageTransparency = 1
+                    TweenService:Create(i, TweenInfo.new(0.5), {ImageTransparency = properties.ImageTransparency}):Play()
+                end
+                i.Visible = true
+            end)()
+        end
+    end
+end
+
+--- Expands and minimizes the gui (closed is the toggle boolean)
+function toggleMinimize(override)
+    if mainClosing and not override or maximized then
+        return
+    end
+    mainClosing = true
+    closed = not closed
+    if closed then
+        if not sideClosed then
+            toggleSideTray(true)
+        end
+        LeftPanel.Visible = true
+        TweenService:Create(LeftPanel, TweenInfo.new(0.5), {Size = UDim2.new(0, 131, 0, 0)}):Play()
+        wait(0.5)
+        remotesFadeIn = fadeOut(LeftPanel:GetDescendants())
+        wait(0.5)
+    else
+        TweenService:Create(LeftPanel, TweenInfo.new(0.5), {Size = UDim2.new(0, 131, 0, 249)}):Play()
+        wait(0.5)
+        if remotesFadeIn then
+            remotesFadeIn()
+            remotesFadeIn = nil
+        end
+        bringBackOnResize()
+    end
+    mainClosing = false
+end
+
+--- Expands and minimizes the sidebar (sideClosed is the toggle boolean)
+function toggleSideTray(override)
+    if sideClosing and not override or maximized then
+        return
+    end
+    sideClosing = true
+    sideClosed = not sideClosed
+    if sideClosed then
+        rightFadeIn = fadeOut(RightPanel:GetDescendants())
+        wait(0.5)
+        minimizeSize(0.5)
+        wait(0.5)
+        RightPanel.Visible = false
+    else
+        if closed then
+            toggleMinimize(true)
+        end
+        RightPanel.Visible = true
+        maximizeSize(0.5)
+        wait(0.5)
+        if rightFadeIn then
+            rightFadeIn()
+        end
+        bringBackOnResize()
+    end
+    sideClosing = false
+end
+
+--- Expands code box to fit screen for more convenient viewing
+function toggleMaximize()
+    if not sideClosed and not maximized then
+        maximized = true
+        local disable = Instance.new("TextButton")
+        local prevSize = UDim2.new(0, CodeBox.AbsoluteSize.X, 0, CodeBox.AbsoluteSize.Y)
+        local prevPos = UDim2.new(0,CodeBox.AbsolutePosition.X, 0, CodeBox.AbsolutePosition.Y)
+        disable.Size = UDim2.new(1, 0, 1, 0)
+        disable.BackgroundColor3 = Color3.new()
+        disable.BorderSizePixel = 0
+        disable.Text = 0
+        disable.ZIndex = 3
+        disable.BackgroundTransparency = 1
+        disable.AutoButtonColor = false
+        CodeBox.ZIndex = 4
+        CodeBox.Position = prevPos
+        CodeBox.Size = prevSize
+        TweenService:Create(CodeBox, TweenInfo.new(0.5), {Size = UDim2.new(0.5, 0, 0.5, 0), Position = UDim2.new(0.25, 0, 0.25, 0)}):Play()
+        TweenService:Create(disable, TweenInfo.new(0.5), {BackgroundTransparency = 0.5}):Play()
+        disable.MouseButton1Click:Connect(function()
+            if UserInputService:GetMouseLocation().Y + 36 >= CodeBox.AbsolutePosition.Y and UserInputService:GetMouseLocation().Y + 36 <= CodeBox.AbsolutePosition.Y + CodeBox.AbsoluteSize.Y
+                and UserInputService:GetMouseLocation().X >= CodeBox.AbsolutePosition.X and UserInputService:GetMouseLocation().X <= CodeBox.AbsolutePosition.X + CodeBox.AbsoluteSize.X then
+                return
+            end
+            TweenService:Create(CodeBox, TweenInfo.new(0.5), {Size = prevSize, Position = prevPos}):Play()
+            TweenService:Create(disable, TweenInfo.new(0.5), {BackgroundTransparency = 1}):Play()
+            wait(0.5)
+            disable:Destroy()
+            CodeBox.Size = UDim2.new(1, 0, 0.5, 0)
+            CodeBox.Position = UDim2.new(0, 0, 0, 0)
+            CodeBox.ZIndex = 0
+            maximized = false
+        end)
+    end
+end
+
+--- Checks if cursor is within resize range
+--- @param p Vector2
+function isInResizeRange(p)
+    local relativeP = p - Background.AbsolutePosition
+    local range = 5
+    if relativeP.X >= TopBar.AbsoluteSize.X - range and relativeP.Y >= Background.AbsoluteSize.Y - range
+        and relativeP.X <= TopBar.AbsoluteSize.X and relativeP.Y <= Background.AbsoluteSize.Y then
+        return true, 'B'
+    elseif relativeP.X >= TopBar.AbsoluteSize.X - range and relativeP.X <= Background.AbsoluteSize.X then
+        return true, 'X'
+    elseif relativeP.Y >= Background.AbsoluteSize.Y - range and relativeP.Y <= Background.AbsoluteSize.Y then
+        return true, 'Y'
+    end
+    return false
+end
+
+--- Checks if cursor is within dragging range
+--- @param p Vector2
+function isInDragRange(p)
+    local relativeP = p - Background.AbsolutePosition
+    if relativeP.X <= TopBar.AbsoluteSize.X - CloseButton.AbsoluteSize.X * 3 and relativeP.X >= 0
+        and relativeP.Y <= TopBar.AbsoluteSize.Y and relativeP.Y >= 0 then
+        return true
+    end
+    return false
+end
+
+--- Called when mouse enters SimpleSpy
+function mouseEntered()
+    local customCursor = Instance.new("ImageLabel")
+    customCursor.Size = UDim2.fromOffset(200, 200)
+    customCursor.ZIndex = 1e5
+    customCursor.BackgroundTransparency = 1
+    customCursor.Image = ""
+    customCursor.Parent = SimpleSpy2
+    UserInputService.OverrideMouseIconBehavior = Enum.OverrideMouseIconBehavior.ForceHide
+    RunService:BindToRenderStep("SIMPLESPY_CURSOR", 1, function()
+        if mouseInGui and _G.SimpleSpyExecuted then
+            local mouseLocation = UserInputService:GetMouseLocation() - Vector2.new(0, 36)
+            customCursor.Position = UDim2.fromOffset(mouseLocation.X - customCursor.AbsoluteSize.X / 2, mouseLocation.Y - customCursor.AbsoluteSize.Y / 2)
+            local inRange, type = isInResizeRange(mouseLocation)
+            if inRange and not sideClosed and not closed then
+                customCursor.Image = type == 'B' and "rbxassetid://6065821980" or type == 'X' and "rbxassetid://6065821086" or type == 'Y' and "rbxassetid://6065821596"
+            elseif inRange and not closed and type == 'Y' or type == 'B' then
+                customCursor.Image = "rbxassetid://6065821596"
+            elseif customCursor.Image ~= "rbxassetid://6065775281" then
+                customCursor.Image = "rbxassetid://6065775281"
+            end
+        else
+            UserInputService.OverrideMouseIconBehavior = Enum.OverrideMouseIconBehavior.None
+            customCursor:Destroy()
+            RunService:UnbindFromRenderStep("SIMPLESPY_CURSOR")
+        end
+    end)
+end
+
+--- Called when mouse moves
+function mouseMoved()
+    local mousePos = UserInputService:GetMouseLocation() - Vector2.new(0, 36)
+    if not closed
+    and mousePos.X >= TopBar.AbsolutePosition.X and mousePos.X <= TopBar.AbsolutePosition.X + TopBar.AbsoluteSize.X
+    and mousePos.Y >= Background.AbsolutePosition.Y and mousePos.Y <= Background.AbsolutePosition.Y + Background.AbsoluteSize.Y then
+        if not mouseInGui then
+            mouseInGui = true
+            mouseEntered()
+        end
+    else
+        mouseInGui = false
+    end
+end
+
+--- Adjusts the ui elements to the 'Maximized' size
+function maximizeSize(speed)
+    if not speed then
+        speed = 0.05
+    end
+    TweenService:Create(LeftPanel, TweenInfo.new(speed), { Size = UDim2.fromOffset(LeftPanel.AbsoluteSize.X, Background.AbsoluteSize.Y - TopBar.AbsoluteSize.Y) }):Play()
+    TweenService:Create(RightPanel, TweenInfo.new(speed), { Size = UDim2.fromOffset(Background.AbsoluteSize.X - LeftPanel.AbsoluteSize.X, Background.AbsoluteSize.Y - TopBar.AbsoluteSize.Y) }):Play()
+    TweenService:Create(TopBar, TweenInfo.new(speed), { Size = UDim2.fromOffset(Background.AbsoluteSize.X, TopBar.AbsoluteSize.Y) }):Play()
+    TweenService:Create(ScrollingFrame, TweenInfo.new(speed), { Size = UDim2.fromOffset(Background.AbsoluteSize.X - LeftPanel.AbsoluteSize.X, 110), Position = UDim2.fromOffset(0, Background.AbsoluteSize.Y - 119 - TopBar.AbsoluteSize.Y) }):Play()
+    TweenService:Create(CodeBox, TweenInfo.new(speed), { Size = UDim2.fromOffset(Background.AbsoluteSize.X - LeftPanel.AbsoluteSize.X, Background.AbsoluteSize.Y - 119 - TopBar.AbsoluteSize.Y) }):Play()
+    TweenService:Create(LogList, TweenInfo.new(speed), { Size = UDim2.fromOffset(LogList.AbsoluteSize.X, Background.AbsoluteSize.Y - TopBar.AbsoluteSize.Y - 18) }):Play()
+end
+
+--- Adjusts the ui elements to close the side
+function minimizeSize(speed)
+    if not speed then
+        speed = 0.05
+    end
+    TweenService:Create(LeftPanel, TweenInfo.new(speed), { Size = UDim2.fromOffset(LeftPanel.AbsoluteSize.X, Background.AbsoluteSize.Y - TopBar.AbsoluteSize.Y) }):Play()
+    TweenService:Create(RightPanel, TweenInfo.new(speed), { Size = UDim2.fromOffset(0, Background.AbsoluteSize.Y - TopBar.AbsoluteSize.Y) }):Play()
+    TweenService:Create(TopBar, TweenInfo.new(speed), { Size = UDim2.fromOffset(LeftPanel.AbsoluteSize.X, TopBar.AbsoluteSize.Y) }):Play()
+    TweenService:Create(ScrollingFrame, TweenInfo.new(speed), { Size = UDim2.fromOffset(0, 119), Position = UDim2.fromOffset(0, Background.AbsoluteSize.Y - 119 - TopBar.AbsoluteSize.Y) }):Play()
+    TweenService:Create(CodeBox, TweenInfo.new(speed), { Size = UDim2.fromOffset(0, Background.AbsoluteSize.Y - 119 - TopBar.AbsoluteSize.Y) }):Play()
+    TweenService:Create(LogList, TweenInfo.new(speed), { Size = UDim2.fromOffset(LogList.AbsoluteSize.X, Background.AbsoluteSize.Y - TopBar.AbsoluteSize.Y - 18) }):Play()
+end
+
+--- Ensures size is within screensize limitations
+function validateSize()
+    local x, y = Background.AbsoluteSize.X, Background.AbsoluteSize.Y
+    local screenSize = workspace.CurrentCamera.ViewportSize
+    if x + Background.AbsolutePosition.X > screenSize.X then
+        if screenSize.X - Background.AbsolutePosition.X >= 450 then
+            x = screenSize.X - Background.AbsolutePosition.X
+        else
+            x = 450
+        end
+    elseif y + Background.AbsolutePosition.Y > screenSize.Y then
+        if screenSize.X - Background.AbsolutePosition.Y >= 268 then
+            y = screenSize.Y - Background.AbsolutePosition.Y
+        else
+            y = 268
+        end
+    end
+    Background.Size = UDim2.fromOffset(x, y)
+end
+
+--- Called on user input while mouse in 'Background' frame
+--- @param input InputObject
+function backgroundUserInput(input)
+    local mousePos = UserInputService:GetMouseLocation() - Vector2.new(0, 36)
+    local inResizeRange, type = isInResizeRange(mousePos)
+    if input.UserInputType == Enum.UserInputType.MouseButton1 and inResizeRange then
+        local lastPos = UserInputService:GetMouseLocation()
+        local offset = Background.AbsoluteSize - lastPos
+        local currentPos = lastPos + offset
+        RunService:BindToRenderStep("SIMPLESPY_RESIZE", 1, function()
+            local newPos = UserInputService:GetMouseLocation()
+            if newPos ~= lastPos then
+                local currentX = (newPos + offset).X
+                local currentY = (newPos + offset).Y
+                if currentX < 450 then
+                    currentX = 450
+                end
+                if currentY < 268 then
+                    currentY = 268
+                end
+                currentPos = Vector2.new(currentX, currentY)
+                Background.Size = UDim2.fromOffset((not sideClosed and not closed and (type == "X" or type == "B")) and currentPos.X or Background.AbsoluteSize.X, (--[[(not sideClosed or currentPos.X <= LeftPanel.AbsolutePosition.X + LeftPanel.AbsoluteSize.X) and]] not closed and (type == "Y" or type == "B")) and currentPos.Y or Background.AbsoluteSize.Y)
+                validateSize()
+                if sideClosed then
+                    minimizeSize()
+                else
+                    maximizeSize()
+                end
+                lastPos = newPos
+            end
+        end)
+        table.insert(connections, UserInputService.InputEnded:Connect(function(inputE)
+            if input == inputE then
+                RunService:UnbindFromRenderStep("SIMPLESPY_RESIZE")
+            end
+        end))
+    elseif isInDragRange(mousePos) then
+        onBarInput(input)
+    end
+end
+
+--- Gets the player an instance is descended from
+function getPlayerFromInstance(instance)
+    for _, v in pairs(Players:GetPlayers()) do
+        if v.Character and (instance:IsDescendantOf(v.Character) or instance == v.Character) then
+            return v
+        end
+    end
+end
+
+--- Runs on MouseButton1Click of an event frame
+function eventSelect(frame)
+    if selected and selected.Log and selected.Log.Button then
+        TweenService:Create(selected.Log.Button, TweenInfo.new(0.5), {BackgroundColor3 = Color3.fromRGB(0, 0, 0)}):Play()
+        selected = nil
+    end
+    for _, v in pairs(logs) do
+        if frame == v.Log then
+            selected = v
+        end
+    end
+    if selected and selected.Log then
+        TweenService:Create(frame.Button, TweenInfo.new(0.5), {BackgroundColor3 = Color3.fromRGB(92, 126, 229)}):Play()
+        codebox:setRaw(selected.GenScript)
+    end
+    if sideClosed then
+        toggleSideTray()
+    end
+end
+
+--- Updates the canvas size to fit the current amount of function buttons
+function updateFunctionCanvas()
+    ScrollingFrame.CanvasSize = UDim2.fromOffset(UIGridLayout.AbsoluteContentSize.X, UIGridLayout.AbsoluteContentSize.Y)
+end
+
+--- Updates the canvas size to fit the amount of current remotes
+function updateRemoteCanvas()
+    LogList.CanvasSize = UDim2.fromOffset(UIListLayout.AbsoluteContentSize.X, UIListLayout.AbsoluteContentSize.Y)
+end
+
+--- Allows for toggling of the tooltip and easy setting of le description
+--- @param enable boolean
+--- @param text string
+function makeToolTip(enable, text)
+    if enable then
+        if ToolTip.Visible then
+            ToolTip.Visible = false
+            RunService:UnbindFromRenderStep("ToolTip")
+        end
+        local first = true
+        RunService:BindToRenderStep("ToolTip", 1, function()
+            local topLeft = Vector2.new(Mouse.X + 20, Mouse.Y + 20)
+            local bottomRight = topLeft + ToolTip.AbsoluteSize
+            if topLeft.X < 0 then
+                topLeft = Vector2.new(0, topLeft.Y)
+            elseif bottomRight.X > workspace.CurrentCamera.ViewportSize.X then
+                topLeft = Vector2.new(workspace.CurrentCamera.ViewportSize.X - ToolTip.AbsoluteSize.X, topLeft.Y)
+            end
+            if topLeft.Y < 0 then
+                topLeft = Vector2.new(topLeft.X, 0)
+            elseif bottomRight.Y > workspace.CurrentCamera.ViewportSize.Y - 35 then
+                topLeft = Vector2.new(topLeft.X, workspace.CurrentCamera.ViewportSize.Y - ToolTip.AbsoluteSize.Y - 35)
+            end
+            if topLeft.X <= Mouse.X and topLeft.Y <= Mouse.Y then
+                topLeft = Vector2.new(Mouse.X - ToolTip.AbsoluteSize.X - 2, Mouse.Y - ToolTip.AbsoluteSize.Y - 2)
+            end
+            if first then
+                ToolTip.Position = UDim2.fromOffset(topLeft.X, topLeft.Y)
+                first = false
+            else
+                ToolTip:TweenPosition(UDim2.fromOffset(topLeft.X, topLeft.Y), "Out", "Linear", 0.1)
+            end
+        end)
+        TextLabel.Text = text
+        ToolTip.Visible = true
+    else
+        if ToolTip.Visible then
+            ToolTip.Visible = false
+            RunService:UnbindFromRenderStep("ToolTip")
+        end
+    end
+end
+
+--- Creates new function button (below codebox)
+--- @param name string
+---@param description function
+---@param onClick function
+function newButton(name, description, onClick)
+    local button = FunctionTemplate:Clone()
+    button.Text.Text = name
+    button.Button.MouseEnter:Connect(function()
+        makeToolTip(true, description())
+    end)
+    button.Button.MouseLeave:Connect(function()
+        makeToolTip(false)
+    end)
+    button.AncestryChanged:Connect(function()
+        makeToolTip(false)
+    end)
+    button.Button.MouseButton1Click:Connect(function(...)
+        onClick(button, ...)
+    end)
+    button.Parent = ScrollingFrame
+    updateFunctionCanvas()
+end
+
+--- Adds new Remote to logs
+--- @param name string The name of the remote being logged
+--- @param type string The type of the remote being logged (either 'function' or 'event')
+--- @param args any
+--- @param remote any
+--- @param function_info string
+--- @param blocked any
+function newRemote(type, name, args, remote, function_info, blocked, src)
+    local remoteFrame = RemoteTemplate:Clone()
+    remoteFrame.Text.Text = handlespecials(name:sub(1, 11))
+    remoteFrame.ColorBar.BackgroundColor3 = type == "event" and Color3.new(255, 242, 0) or Color3.fromRGB(99, 86, 245)
+    local id = Instance.new("IntValue")
+    id.Name = "ID"
+    id.Value = #logs + 1
+    id.Parent = remoteFrame
+    local log = {
+        Name = name,
+        Function = function_info,
+        Remote = remote,
+        Log = remoteFrame,
+        Blocked = blocked,
+        Source = src,
+        GenScript = "-- Generating, please wait... (click to reload)\n-- (If this message persists, the remote args are likely extremely long)"
+    }
+    logs[#logs + 1] = log
+    schedule(function()
+        log.GenScript = genScript(remote, args)
+        if blocked then
+            logs[#logs].GenScript = "-- THIS REMOTE WAS PREVENTED FROM FIRING THE SERVER BY SIMPLESPY\n\n" .. logs[#logs].GenScript
+        end
+    end)
+    local connect = remoteFrame.Button.MouseButton1Click:Connect(function()
+        eventSelect(remoteFrame)
+    end)
+    if layoutOrderNum < 1 then
+        layoutOrderNum = 999999999
+    end
+    remoteFrame.LayoutOrder = layoutOrderNum
+    layoutOrderNum = layoutOrderNum - 1
+    remoteFrame.Parent = LogList
+    table.insert(remoteLogs, 1, {connect, remoteFrame})
+    clean()
+    updateRemoteCanvas()
+end
+
+--- Generates a script from the provided arguments (first has to be remote path)
+function genScript(remote, args)
+    prevTables = {}
+    local gen = ""
+    if #args > 0 then
+        if not pcall(function()
+                gen = v2v({args = args}) .. "\n"
+            end)
+        then
+            gen = gen .. "-- TableToString failure! Reverting to legacy functionality (results may vary)\nlocal args = {"
+            if
+                not pcall(
+                    function()
+                        for i, v in pairs(args) do
+                            if type(i) ~= "Instance" and type(i) ~= "userdata" then
+                                gen = gen .. "\n    [object] = "
+                            elseif type(i) == "string" then
+                                gen = gen .. '\n    ["' .. i .. '"] = '
+                            elseif type(i) == "userdata" and typeof(i) ~= "Instance" then
+                                gen = gen .. "\n    [" .. string.format("nil --[[%s]]", typeof(v)) .. ")] = "
+                            elseif type(i) == "userdata" then
+                                gen = gen .. "\n    [game." .. i:GetFullName() .. ")] = "
+                            end
+                            if type(v) ~= "Instance" and type(v) ~= "userdata" then
+                                gen = gen .. "object"
+                            elseif type(v) == "string" then
+                                gen = gen .. '"' .. v .. '"'
+                            elseif type(v) == "userdata" and typeof(v) ~= "Instance" then
+                                gen = gen .. string.format("nil --[[%s]]", typeof(v))
+                            elseif type(v) == "userdata" then
+                                gen = gen .. "game." .. v:GetFullName()
+                            end
+                        end
+                        gen = gen .. "\n}\n\n"
+                    end
+                )
+             then
+                gen = gen .. "}\n-- Legacy tableToString failure! Unable to decompile."
+            end
+        end
+        if not remote:IsDescendantOf(game) and not getnilrequired then
+            gen = "function getNil(name,class) for _,v in pairs(getnilinstances())do if v.ClassName==class and v.Name==name then return v;end end end\n\n" .. gen
+        end
+        if remote:IsA("RemoteEvent") then
+            gen = gen .. v2s(remote) .. ":FireServer(unpack(args))"
+        elseif remote:IsA("RemoteFunction") then
+            gen = gen .. v2s(remote) .. ":InvokeServer(unpack(args))"
+        end
+    else
+        if remote:IsA("RemoteEvent") then
+            gen = gen .. v2s(remote) .. ":FireServer()"
+        elseif remote:IsA("RemoteFunction") then
+            gen = gen .. v2s(remote) .. ":InvokeServer()"
+        end
+    end
+    gen = "-- Script generated by SimpleSpy - credits to exx#9394\n\n" .. gen
+    prevTables = {}
+    return gen
+end
+
+--- value-to-string: value, string (out), level (indentation), parent table, var name, is from tovar
+function v2s(v, l, p, n, vtv, i, pt, path, tables, tI)
+    if not tI then
+        tI = {0}
+    else
+        tI[1] += 1
+    end
+    if typeof(v) == "number" then
+        if v == math.huge then
+            return "math.huge"
+        elseif tostring(v):match("nan") then
+            return "0/0 --[[NaN]]"
+        end
+        return tostring(v)
+    elseif typeof(v) == "boolean" then
+        return tostring(v)
+    elseif typeof(v) == "string" then
+        return formatstr(v, l)
+    elseif typeof(v) == "function" then
+        return f2s(v)
+    elseif typeof(v) == "table" then
+        return t2s(v, l, p, n, vtv, i, pt, path, tables, tI)
+    elseif typeof(v) == "Instance" then
+        return i2p(v)
+    elseif typeof(v) == "userdata" then
+        return "newproxy(true)"
+    elseif type(v) == "userdata" then
+        return u2s(v)
+    elseif type(v) == "vector" then
+        return string.format("Vector3.new(%s, %s, %s)", v2s(v.X), v2s(v.Y), v2s(v.Z))
+    else
+        return "nil --[[" .. typeof(v) .. "]]"
+    end
+end
+
+--- value-to-variable
+--- @param t any
+function v2v(t)
+    topstr = ""
+    bottomstr = ""
+    getnilrequired = false
+    local ret = ""
+    local count = 1
+    for i, v in pairs(t) do
+        if type(i) == "string" and i:match("^[%a_]+[%w_]*$") then
+            ret = ret .. "local " .. i .. " = " .. v2s(v, nil, nil, i, true) .. "\n"
+        elseif tostring(i):match("^[%a_]+[%w_]*$") then
+            ret = ret .. "local " .. tostring(i):lower() .. "_" .. tostring(count) .. " = " .. v2s(v, nil, nil, tostring(i):lower() .. "_" .. tostring(count), true) .. "\n"
+        else
+            ret = ret .. "local " .. type(v) .. "_" .. tostring(count) .. " = " .. v2s(v, nil, nil, type(v) .. "_" .. tostring(count), true) .. "\n"
+        end
+        count = count + 1
+    end
+    if getnilrequired then
+        topstr = "function getNil(name,class) for _,v in pairs(getnilinstances())do if v.ClassName==class and v.Name==name then return v;end end end\n" .. topstr
+    end
+    if #topstr > 0 then
+        ret = topstr .. "\n" .. ret
+    end
+    if #bottomstr > 0 then
+        ret = ret .. bottomstr
+    end
+    return ret
+end
+
+--- table-to-string
+--- @param t table
+--- @param l number
+--- @param p table
+--- @param n string
+--- @param vtv boolean
+--- @param i any
+--- @param pt table
+--- @param path string
+--- @param tables table
+--- @param tI table
+function t2s(t, l, p, n, vtv, i, pt, path, tables, tI)
+    local globalIndex = table.find(getgenv(), t) -- checks if table is a global
+    if type(globalIndex) == "string" then
+        return globalIndex
+    end
+    if not tI then
+        tI = {0}
+    end
+    if not path then -- sets path to empty string (so it doesn't have to manually provided every time)
+        path = ""
+    end
+    if not l then -- sets the level to 0 (for indentation) and tables for logging tables it already serialized
+        l = 0
+        tables = {}
+    end
+    if not p then -- p is the previous table but doesn't really matter if it's the first
+        p = t
+    end
+    for _, v in pairs(tables) do -- checks if the current table has been serialized before
+        if n and rawequal(v, t) then
+            bottomstr = bottomstr .. "\n" .. tostring(n) .. tostring(path) .. " = " .. tostring(n) .. tostring(({v2p(v, p)})[2])
+            return "{} --[[DUPLICATE]]"
+        end
+    end
+    table.insert(tables, t) -- logs table to past tables
+    local s =  "{" -- start of serialization
+    local size = 0
+    l = l + indent -- set indentation level
+    for k, v in pairs(t) do -- iterates over table
+        size = size + 1 -- changes size for max limit
+        if size > (_G.SimpleSpyMaxTableSize or 1000) then
+            s = s .. "\n" .. string.rep(" ", l) .. "-- MAXIMUM TABLE SIZE REACHED, CHANGE '_G.SimpleSpyMaxTableSize' TO ADJUST MAXIMUM SIZE "
+            break
+        end
+        if rawequal(k, t) then -- checks if the table being iterated over is being used as an index within itself (yay, lua)
+            bottomstr = bottomstr .. "\n" .. tostring(n) .. tostring(path) .. "[" .. tostring(n) .. tostring(path) .. "]" .. " = " .. (rawequal(v, k) and tostring(n) .. tostring(path) or v2s(v, l, p, n, vtv, k, t, path .. "[" .. tostring(n) .. tostring(path) .. "]", tables))
+            size -= 1
+            continue
+        end
+        local currentPath = "" -- initializes the path of 'v' within 't'
+        if type(k) == "string" and k:match("^[%a_]+[%w_]*$") then -- cleanly handles table path generation (for the first half)
+            currentPath = "." .. k
+        else
+            currentPath = "[" .. k2s(k, l, p, n, vtv, k, t, path .. currentPath, tables, tI) .. "]"
+        end
+        if size % 100 == 0 then
+            scheduleWait()
+        end
+        -- actually serializes the member of the table
+        s = s .. "\n" .. string.rep(" ", l) .. "[" .. k2s(k, l, p, n, vtv, k, t, path .. currentPath, tables, tI) .. "] = " .. v2s(v, l, p, n, vtv, k, t, path .. currentPath, tables, tI) .. ","
+    end
+    if #s > 1 then -- removes the last comma because it looks nicer (no way to tell if it's done 'till it's done so...)
+        s = s:sub(1, #s - 1)
+    end
+    if size > 0 then -- cleanly indents the last curly bracket
+        s = s .. "\n" .. string.rep(" ", l - indent)
+    end
+    return s .. "}"
+end
+
+--- key-to-string
+function k2s(v, ...)
+    if keyToString then
+        if typeof(v) == "userdata" and getrawmetatable(v) then
+            return string.format('"<void> (%s)" --[[Potentially hidden data (tostring in SimpleSpy:HookRemote/GetRemoteFiredSignal at your own risk)]]', safetostring(v))
+        elseif typeof(v) == "userdata" then
+            return string.format('"<void> (%s)"', safetostring(v))
+        elseif type(v) == "userdata" and typeof(v) ~= "Instance" then
+            return string.format('"<%s> (%s)"', typeof(v), tostring(v))
+        elseif type(v) == "function" then
+            return string.format('"<Function> (%s)"', tostring(v))
+        end
+    end
+    return v2s(v, ...)
+end
+
+--- function-to-string
+function f2s(f)
+    for k, x in pairs(getgenv()) do
+        local isgucci, gpath
+        if rawequal(x, f) then
+            isgucci, gpath = true, ""
+        elseif type(x) == "table" then
+            isgucci, gpath = v2p(f, x)
+        end
+        if isgucci and type(k) ~= "function" then
+            if type(k) == "string" and k:match("^[%a_]+[%w_]*$") then
+                return k .. gpath
+            else
+                return "getgenv()[" .. v2s(k) .. "]" .. gpath
+            end
+        end
+    end
+    if funcEnabled and debug.getinfo(f).name:match("^[%a_]+[%w_]*$") then
+        return "function()end --[[" .. debug.getinfo(f).name .. "]]"
+    end
+    return "function()end --[[" .. tostring(f) .. "]]"
+end
+
+--- instance-to-path
+--- @param i userdata
+function i2p(i)
+    local player = getplayer(i)
+    local parent = i
+    local out = ""
+    if parent == nil then
+        return "nil"
+    elseif player then
+        while true do
+            if parent and parent == player.Character then
+                if player == Players.LocalPlayer then
+                    return 'game:GetService("Players").LocalPlayer.Character' .. out
+                else
+                    return i2p(player) .. ".Character" .. out
+                end
+            else
+                if parent.Name:match("[%a_]+[%w+]*") ~= parent.Name then
+                    out = ':FindFirstChild(' .. formatstr(parent.Name) .. ')' .. out
+                else
+                    out = "." .. parent.Name .. out
+                end
+            end
+            parent = parent.Parent
+        end
+    elseif parent ~= game then
+        while true do
+            if parent and parent.Parent == game then
+                if game:GetService(parent.ClassName) then
+                    if parent.ClassName == "Workspace" then
+                        return "workspace" .. out
+                    else
+                        return 'game:GetService("' .. parent.ClassName .. '")' .. out
+                    end
+                else
+                    if parent.Name:match("[%a_]+[%w_]*") then
+                        return "game." .. parent.Name .. out
+                    else
+                        return 'game:FindFirstChild(' .. formatstr(parent.Name) .. ')' .. out
+                    end
+                end
+            elseif parent.Parent == nil then
+                getnilrequired = true
+                return 'getNil(' .. formatstr(parent.Name) .. ', "' .. parent.ClassName .. '")' .. out
+            elseif parent == Players.LocalPlayer then
+                out = ".LocalPlayer" .. out
+            else
+                if parent.Name:match("[%a_]+[%w_]*") ~= parent.Name then
+                    out = ':FindFirstChild(' .. formatstr(parent.Name) .. ')' .. out
+                else
+                    out = "." .. parent.Name .. out
+                end
+            end
+            parent = parent.Parent
+        end
+    else
+        return "game"
+    end
+end
+
+--- userdata-to-string: userdata
+--- @param u userdata
+function u2s(u)
+    if typeof(u) == "TweenInfo" then
+        -- TweenInfo
+        return "TweenInfo.new(" ..tostring(u.Time) .. ", Enum.EasingStyle." .. tostring(u.EasingStyle) .. ", Enum.EasingDirection." .. tostring(u.EasingDirection) .. ", " .. tostring(u.RepeatCount) .. ", " .. tostring(u.Reverses) .. ", " .. tostring(u.DelayTime) .. ")"
+    elseif typeof(u) == "Ray" then
+        -- Ray
+        return "Ray.new(" .. u2s(u.Origin) .. ", " .. u2s(u.Direction) .. ")"
+    elseif typeof(u) == "NumberSequence" then
+        -- NumberSequence
+        local ret = "NumberSequence.new("
+        for i, v in pairs(u.KeyPoints) do
+            ret = ret .. tostring(v)
+            if i < #u.Keypoints then
+                ret = ret .. ", "
+            end
+        end
+        return ret .. ")"
+    elseif typeof(u) == "DockWidgetPluginGuiInfo" then
+        -- DockWidgetPluginGuiInfo
+        return "DockWidgetPluginGuiInfo.new(Enum.InitialDockState" .. tostring(u) .. ")"
+    elseif typeof(u) == "ColorSequence" then
+        -- ColorSequence
+        local ret = "ColorSequence.new("
+        for i, v in pairs(u.KeyPoints) do
+            ret = ret .. "Color3.new(" .. tostring(v) .. ")"
+            if i < #u.Keypoints then
+                ret = ret .. ", "
+            end
+        end
+        return ret .. ")"
+    elseif typeof(u) == "BrickColor" then
+        -- BrickColor
+        return "BrickColor.new(" .. tostring(u.Number) .. ")"
+    elseif typeof(u) == "NumberRange" then
+        -- NumberRange
+        return "NumberRange.new(" .. tostring(u.Min) .. ", " .. tostring(u.Max) .. ")"
+    elseif typeof(u) == "Region3" then
+        -- Region3
+        local center = u.CFrame.Position
+        local size = u.CFrame.Size
+        local vector1 = center - size / 2
+        local vector2 = center + size / 2
+        return "Region3.new(" .. u2s(vector1) .. ", " .. u2s(vector2) .. ")"
+    elseif typeof(u) == "Faces" then
+        -- Faces
+        local faces = {}
+        if u.Top then
+            table.insert(faces, "Enum.NormalId.Top")
+        end
+        if u.Bottom then
+            table.insert(faces, "Enum.NormalId.Bottom")
+        end
+        if u.Left then
+            table.insert(faces, "Enum.NormalId.Left")
+        end
+        if u.Right then
+            table.insert(faces, "Enum.NormalId.Right")
+        end
+        if u.Back then
+            table.insert(faces, "Enum.NormalId.Back")
+        end
+        if u.Front then
+            table.insert(faces, "Enum.NormalId.Front")
+        end
+        return "Faces.new(" .. table.concat(faces, ", ") .. ")"
+    elseif typeof(u) == "EnumItem" then
+        return tostring(u)
+    elseif typeof(u) == "Enums" then
+        return "Enum"
+    elseif typeof(u) == "Enum" then
+        return "Enum." .. tostring(u)
+    elseif typeof(u) == "RBXScriptSignal" then
+        return "nil --[[RBXScriptSignal]]"
+    elseif typeof(u) == "Vector3" then
+        return string.format("Vector3.new(%s, %s, %s)", v2s(u.X), v2s(u.Y), v2s(u.Z))
+    elseif typeof(u) == "CFrame" then
+        return string.format("CFrame.new(%s, %s)", v2s(u.Position), v2s(u.LookVector))
+    elseif typeof(u) == "DockWidgetPluginGuiInfo" then
+        return string.format("DockWidgetPluginGuiInfo(%s, %s, %s, %s, %s, %s, %s)", "Enum.InitialDockState.Right", v2s(u.InitialEnabled), v2s(u.InitialEnabledShouldOverrideRestore), v2s(u.FloatingXSize), v2s(u.FloatingYSize), v2s(u.MinWidth), v2s(u.MinHeight))
+    elseif typeof(u) == "PathWaypoint" then
+        return string.format("PathWaypoint.new(%s, %s)", v2s(u.Position), v2s(u.Action))
+    elseif typeof(u) == "UDim" then
+        return string.format("UDim.new(%s, %s)", v2s(u.Scale), v2s(u.Offset))
+    elseif typeof(u) == "UDim2" then
+        return string.format("UDim2.new(%s, %s, %s, %s)", v2s(u.X.Scale), v2s(u.X.Offset), v2s(u.Y.Scale), v2s(u.Y.Offset))
+    elseif typeof(u) == "Rect" then
+        return string.format("Rect.new(%s, %s)", v2s(u.Min), v2s(u.Max))
+    else
+        return string.format("nil --[[%s]]", typeof(u))
+    end
+end
+
+--- Gets the player an instance is descended from
+function getplayer(instance)
+    for _, v in pairs(Players:GetPlayers()) do
+        if v.Character and (instance:IsDescendantOf(v.Character) or instance == v.Character) then
+            return v
+        end
+    end
+end
+
+--- value-to-path (in table)
+function v2p(x, t, path, prev)
+    if not path then
+        path = ""
+    end
+    if not prev then
+        prev = {}
+    end
+    if rawequal(x, t) then
+        return true, ""
+    end
+    for i, v in pairs(t) do
+        if rawequal(v, x) then
+            if type(i) == "string" and i:match("^[%a_]+[%w_]*$") then
+                return true, (path .. "." .. i)
+            else
+                return true, (path .. "[" .. v2s(i) .. "]")
+            end
+        end
+        if type(v) == "table" then
+            local duplicate = false
+            for _, y in pairs(prev) do
+                if rawequal(y, v) then
+                    duplicate = true
+                end
+            end
+            if not duplicate then
+                table.insert(prev, t)
+                local found
+                found, p = v2p(x, v, path, prev)
+                if found then
+                    if type(i) == "string" and i:match("^[%a_]+[%w_]*$") then
+                        return true, "." .. i .. p
+                    else
+                        return true, "[" .. v2s(i) .. "]" .. p
+                    end
+                end
+            end
+        end
+    end
+    return false, ""
+end
+
+--- format s: string, byte encrypt (for weird symbols)
+function formatstr(s, indentation)
+    if not indentation then
+        indentation = 0
+    end
+    local handled, reachedMax = handlespecials(s, indentation)
+    return '"' .. handled .. '"' .. (reachedMax and " --[[ MAXIMUM STRING SIZE REACHED, CHANGE '_G.SimpleSpyMaxStringSize' TO ADJUST MAXIMUM SIZE ]]" or "")
+end
+
+--- Adds \'s to the text as a replacement to whitespace chars and other things because string.format can't yayeet
+function handlespecials(s, indentation)
+    local i = 0
+    local n = 1
+    local coroutines = {}
+    local coroutineFunc = function(i, r)
+        s = s:sub(0, i - 1) .. r .. s:sub(i + 1, -1)
+    end
+    local function isFinished()
+        for _, v in pairs(coroutines) do
+            if coroutine.status(v) == "running" then
+                return false
+            end
+        end
+        return true
+    end
+    repeat
+        i = i + 1
+        local char = s:sub(i, i)
+        if string.byte(char) then
+            local c = coroutine.create(coroutineFunc)
+            table.insert(coroutines, c)
+            if char == "\n" then
+                coroutine.resume(c, i, "\\n")
+                -- s = s:sub(0, i - 1) .. "\\n" .. s:sub(i + 1, -1)
+                i = i + 1
+            elseif char == "\t" then
+                coroutine.resume(c, i, "\\t")
+                -- s = s:sub(0, i - 1) .. "\\t" .. s:sub(i + 1, -1)
+                i = i + 1
+            elseif char == "\\" then
+                coroutine.resume(c, i, "\\\\")
+                -- s = s:sub(0, i - 1) .. "\\\\" .. s:sub(i + 1, -1)
+                i = i + 1
+            elseif char == '"' then
+                coroutine.resume(c, i, "\\\"")
+                -- s = s:sub(0, i - 1) .. '\\"' .. s:sub(i + 1, -1)
+                i = i + 1
+            elseif string.byte(char) > 126 or string.byte(char) < 32 then
+                coroutine.resume(c, i, "\\" .. string.byte(char))
+                -- s = s:sub(0, i - 1) .. "\\" .. string.byte(char) .. s:sub(i + 1, -1)
+                i = i + #tostring(string.byte(char))
+            end
+            if i >= n * 100 then
+                local extra = string.format('" ..\n%s"', string.rep(" ", indentation + indent))
+                s = s:sub(0, i) .. extra .. s:sub(i + 1, -1)
+                i += #extra
+                n += 1
+                scheduleWait()
+            end
+        end
+    until char == "" or i > (_G.SimpleSpyMaxStringSize or 10000)
+    while not isFinished() do
+        RunService.Heartbeat:Wait()
+    end
+    if i > (_G.SimpleSpyMaxStringSize or 10000) then
+        s = string.sub(s, 0, _G.SimpleSpyMaxStringSize or 10000)
+        return s, true
+    end
+    return s, false
+end
+
+-- safe (ish) tostring
+function safetostring(v: any)
+    if typeof(v) == "userdata" or type(v) == "table" then
+        local mt = getrawmetatable(v)
+        local badtostring = mt and rawget(mt, "__tostring")
+        if mt and badtostring then
+            rawset(mt, "__tostring", nil)
+            local out = tostring(v)
+            rawset(mt, "__tostring", badtostring)
+            return out
+        end
+    end
+    return tostring(v)
+end
+
+--- finds script from 'src' from getinfo, returns nil if not found
+--- @param src string
+function getScriptFromSrc(src)
+    local realPath
+    local runningTest
+    --- @type number
+    local s, e
+    local match = false
+    if src:sub(1, 1) == "=" then
+        realPath = game
+        s = 2
+    else
+        runningTest = src:sub(2, e and e - 1 or -1)
+        for _, v in pairs(getnilinstances()) do
+            if v.Name == runningTest then
+                realPath = v
+                break
+            end
+        end
+        s = #runningTest + 1
+    end
+    if realPath then
+        e = src:sub(s, -1):find("%.")
+        local i = 0
+        repeat
+            i += 1
+            if not e then
+                runningTest = src:sub(s, -1)
+                local test = realPath.FindFirstChild(realPath, runningTest)
+                if test then
+                    realPath = test
+                end
+                match = true
+            else
+                runningTest = src:sub(s, e)
+                local test = realPath.FindFirstChild(realPath, runningTest)
+                local yeOld = e
+                if test then
+                    realPath = test
+                    s = e + 2
+                    e = src:sub(e + 2, -1):find("%.")
+                    e = e and e + yeOld or e
+                else
+                    e = src:sub(e + 2, -1):find("%.")
+                    e = e and e + yeOld or e
+                end
+            end
+        until match or i >= 50
+    end
+    return realPath
+end
+
+--- schedules the provided function (and calls it with any args after)
+function schedule(f, ...)
+    table.insert(scheduled, {f, ...})
+end
+
+--- yields the current thread until the scheduler gives the ok
+function scheduleWait()
+    local thread = coroutine.running()
+    schedule(function()
+        coroutine.resume(thread)
+    end)
+    coroutine.yield()
+end
+
+--- the big (well tbh small now) boi task scheduler himself, handles p much anything as quicc as possible
+function taskscheduler()
+    if not toggle then
+        scheduled = {}
+        return
+    end
+    if #scheduled > 1000 then
+        table.remove(scheduled, #scheduled)
+    end
+    if #scheduled > 0 then
+        local currentf = scheduled[1]
+        table.remove(scheduled, 1)
+        if type(currentf) == "table" and type(currentf[1]) == "function" then
+            pcall(unpack(currentf))
+        end
+    end
+end
+
+--- Handles remote logs
+function remoteHandler(hookfunction, methodName, remote, args, func, calling)
+    if remote:IsA("RemoteEvent") or remote:IsA("RemoteFunction") then
+        if funcEnabled and not calling then
+            _, calling = pcall(getScriptFromSrc, debug.getinfo(func).source)
+        end
+        coroutine.wrap(function()
+            if remoteSignals[remote] then
+                remoteSignals[remote]:Fire(args)
+            end
+        end)()
+        if autoblock then
+            if excluding[remote] then
+                return
+            end
+            if not history[remote] then
+                history[remote] = {badOccurances = 0, lastCall = tick()}
+            end
+            if tick() - history[remote].lastCall < 1 then
+                history[remote].badOccurances += 1
+                return
+            else
+                history[remote].badOccurances = 0
+            end
+            if history[remote].badOccurances > 3 then
+                excluding[remote] = true
+                return
+            end
+            history[remote].lastCall = tick()
+        end
+        local functionInfoStr
+        local src
+        if func and islclosure(func) then
+            local functionInfo = {}
+            pcall(function() functionInfo.info = debug.getinfo(func) end)
+            pcall(function() functionInfo.constants = debug.getconstants(func) end)
+            pcall(function() functionInfoStr = v2v{functionInfo = functionInfo} end)
+            pcall(function() if type(calling) == "userdata" then src = calling end end)
+        end
+        if methodName:lower() == "fireserver" then
+            newRemote("event", remote.Name, args, remote, functionInfoStr, (blocklist[remote] or blocklist[remote.Name]), src)
+        elseif methodName:lower() == "invokeserver" then
+            newRemote("function", remote.Name, args, remote, functionInfoStr, (blocklist[remote] or blocklist[remote.Name]), src)
+        end
+    end
+end
+
+--- Used for hookfunction
+function hookRemote(remoteType, remote, ...)
+    local args = {...}
+    if remoteHooks[remote] then
+        args = remoteHooks[remote](args)
+    end
+    if typeof(remote) == "Instance" and not (blacklist[remote] or blacklist[remote.Name]) then
+        local func
+        local calling
+        if funcEnabled then
+            func = debug.getinfo(4).func
+            calling = useGetCallingScript and getcallingscript() or nil
+        end
+        schedule(remoteHandler, true, remoteType == "RemoteEvent" and "fireserver" or "invokeserver", remote, args, func, calling)
+        if (blocklist[remote] or blocklist[remote.Name]) then
+            return
+        end
+    end
+    if remoteType == "RemoteEvent" then
+        if remoteHooks[remote] then
+            return originalEvent(remote, unpack(args))
+        end
+        return originalEvent(remote, ...)
+    else
+        if remoteHooks[remote] then
+            return originalFunction(remote, unpack(args))
+        end
+        return originalFunction(remote, ...)
+    end
+end
+
+local newnamecall = newcclosure(function(remote, ...)
+    local args = {...}
+    local methodName = getnamecallmethod()
+    if (methodName == "FireServer" or methodName == "fireServer" or methodName == "InvokeServer" or methodName == "invokeServer") and not (blacklist[remote] or blacklist[remote.Name]) then
+        if remoteHooks[remote] then
+            args = remoteHooks[remote](args)
+        end
+        local func
+        local calling
+        if funcEnabled then
+            func = debug.getinfo(3).func
+            calling = useGetCallingScript and getcallingscript() or nil
+        end
+        coroutine.wrap(function()
+            schedule(remoteHandler, false, methodName, remote, args, func, calling)
+        end)()
+    end
+    if typeof(remote) == "Instance" and (methodName == "FireServer" or methodName == "fireServer" or methodName == "InvokeServer" or methodName == "invokeServer") and (blocklist[remote] or blocklist[remote.Name]) then
+        return nil
+    elseif (methodName == "FireServer" or methodName == "fireServer" or methodName == "InvokeServer" or methodName == "invokeServer") and remoteHooks[remote] then
+        return original(remote, unpack(args))
+    else
+        return original(remote, ...)
+    end
+end)
+
+local newFireServer = newcclosure(function(...) return hookRemote("RemoteEvent", ...) end)
+
+local newInvokeServer = newcclosure(function(...) return hookRemote("RemoteFunction", ...) end)
+
+--- Toggles on and off the remote spy
+function toggleSpy()
+    if not toggle then
+        setreadonly(gm, false)
+        if not original then
+            original = gm.__namecall
+            if not original then
+                warn("SimpleSpy: namecall method not found!\n")
+                onToggleButtonClick()
+                return
+            end
+        end
+        gm.__namecall = newnamecall
+        originalEvent = hookfunction(remoteEvent.FireServer, newFireServer)
+        originalFunction = hookfunction(remoteFunction.InvokeServer, newInvokeServer)
+    else
+        setreadonly(gm, false)
+        gm.__namecall = original
+        hookfunction(remoteEvent.FireServer, originalEvent)
+        hookfunction(remoteFunction.InvokeServer, originalFunction)
+    end
+end
+
+--- Toggles between the two remotespy methods (hookfunction currently = disabled)
+function toggleSpyMethod()
+    toggleSpy()
+    toggle = not toggle
+end
+
+--- Shuts down the remote spy
+function shutdown()
+    if schedulerconnect then
+        schedulerconnect:Disconnect()
+    end
+    for _, connection in pairs(connections) do
+        coroutine.wrap(function()
+            connection:Disconnect()
+        end)()
+    end
+    setreadonly(gm, false)
+    SimpleSpy2:Destroy()
+    hookfunction(remoteEvent.FireServer, originalEvent)
+    hookfunction(remoteFunction.InvokeServer, originalFunction)
+    gm.__namecall = original
+    _G.SimpleSpyExecuted = false
+end
+
+-- main
+if not _G.SimpleSpyExecuted then
+    local succeeded, err = pcall(function()
+        if not RunService:IsClient() then
+            error("SimpleSpy cannot run on the server!")
+        end
+        _G.SimpleSpyShutdown = shutdown
+        ContentProvider:PreloadAsync({"rbxassetid://6065821980", "rbxassetid://6065774948", "rbxassetid://6065821086", "rbxassetid://6065821596", ImageLabel, ImageLabel_2, ImageLabel_3})
+        -- if gethui then funcEnabled = false end
+        onToggleButtonClick()
+        RemoteTemplate.Parent = nil
+        FunctionTemplate.Parent = nil
+        codebox = Highlight.new(CodeBox)
+        codebox:setRaw("")
+        getgenv().SimpleSpy = SimpleSpy
+        getgenv().getNil = function(name,class) for _,v in pairs(getnilinstances())do if v.ClassName==class and v.Name==name then return v;end end end
+        TextLabel:GetPropertyChangedSignal("Text"):Connect(scaleToolTip)
+        -- TopBar.InputBegan:Connect(onBarInput)
+        MinimizeButton.MouseButton1Click:Connect(toggleMinimize)
+        MaximizeButton.MouseButton1Click:Connect(toggleSideTray)
+        Simple.MouseButton1Click:Connect(onToggleButtonClick)
+        CloseButton.MouseEnter:Connect(onXButtonHover)
+        CloseButton.MouseLeave:Connect(onXButtonUnhover)
+        Simple.MouseEnter:Connect(onToggleButtonHover)
+        Simple.MouseLeave:Connect(onToggleButtonUnhover)
+        CloseButton.MouseButton1Click:Connect(shutdown)
+        table.insert(connections, UserInputService.InputBegan:Connect(backgroundUserInput))
+        connectResize()
+        SimpleSpy2.Enabled = true
+        coroutine.wrap(function()
+            wait(1)
+            onToggleButtonUnhover()
+        end)()
+        schedulerconnect = RunService.Heartbeat:Connect(taskscheduler)
+        if syn and syn.protect_gui then pcall(syn.protect_gui, SimpleSpy2) end
+        bringBackOnResize()
+        SimpleSpy2.Parent = --[[gethui and gethui() or]] CoreGui
+        if not Players.LocalPlayer then
+            Players:GetPropertyChangedSignal("LocalPlayer"):Wait()
+        end
+        Mouse = Players.LocalPlayer:GetMouse()
+        oldIcon = Mouse.Icon
+        table.insert(connections, Mouse.Move:Connect(mouseMoved))
+    end)
+    if succeeded then
+        _G.SimpleSpyExecuted = true
+    else
+        warn("A fatal error has occured, SimpleSpy was unable to launch properly.\nPlease DM this error message to @exx#9394:\n\n" .. tostring(err))
+        SimpleSpy2:Destroy()
+        hookfunction(remoteEvent.FireServer, originalEvent)
+        hookfunction(remoteFunction.InvokeServer, originalFunction)
+        gm.__namecall = original
+        return
+    end
+else
+    SimpleSpy2:Destroy()
+    return
+end
+
+----- ADD ONS ----- (easily add or remove additonal functionality to the RemoteSpy!)
+--[[
+    Some helpful things:
+        - add your function in here, and create buttons for them through the 'newButton' function
+        - the first argument provided is the TextButton the player clicks to run the function
+        - generated scripts are generated when the namecall is initially fired and saved in remoteFrame objects
+        - blacklisted remotes will be ignored directly in namecall (less lag)
+        - the properties of a 'remoteFrame' object:
+            {
+                Name: (string) The name of the Remote
+                GenScript: (string) The generated script that appears in the codebox (generated when namecall fired)
+                Source: (Instance (LocalScript)) The script that fired/invoked the remote
+                Remote: (Instance (RemoteEvent) | Instance (RemoteFunction)) The remote that was fired/invoked
+                Log: (Instance (TextButton)) The button being used for the remote (same as 'selected.Log')
+            }
+        - globals list: (contact @exx#9394 for more information or if you have suggestions for more to be added)
+            - closed: (boolean) whether or not the GUI is currently minimized
+            - logs: (table[remoteFrame]) full of remoteFrame objects (properties listed above)
+            - selected: (remoteFrame) the currently selected remoteFrame (properties listed above)
+            - blacklist: (string[] | Instance[] (RemoteEvent) | Instance[] (RemoteFunction)) an array of blacklisted names and remotes
+            - codebox: (Instance (TextBox)) the textbox that holds all the code- cleared often
+]]
+-- Copies the contents of the codebox
+newButton(
+    "Copy Code",
+    function() return "Click to copy code" end,
+    function()
+        setclipboard(codebox:getString())
+        TextLabel.Text = "Copied successfully!"
+    end
+)
+
+--- Copies the source script (that fired the remote)
+newButton(
+    "Copy Remote",
+    function() return "Click to copy the path of the remote" end,
+    function()
+        if selected then
+            setclipboard(v2s(selected.Remote))
+            TextLabel.Text = "Copied!"
+        end
+    end
+)
+
+-- Executes the contents of the codebox through loadstring
+newButton(
+    "Run Code",
+    function() return "Click to execute code" end,
+    function()
+        local orText = "Click to execute code"
+        TextLabel.Text = "Executing..."
+        local succeeded = pcall(function() return loadstring(codebox:getString())() end)
+        if succeeded then
+            TextLabel.Text = "Executed successfully!"
+        else
+            TextLabel.Text = "Execution error!"
+        end
+    end
+)
+
+--- Gets the calling script (not super reliable but w/e)
+newButton(
+    "Get Script",
+    function() return "Click to copy calling script to clipboard\nWARNING: Not super reliable, nil == could not find" end,
+    function()
+        if selected then
+            setclipboard(SimpleSpy:ValueToString(selected.Source))
+            TextLabel.Text = "Done!"
+        end
+    end
+)
+
+--- Decompiles the script that fired the remote and puts it in the code box
+newButton(
+    "Function Info",
+    function() return "Click to view calling function information" end,
+    function()
+        if selected then
+            if selected.Function then
+                codebox:setRaw("-- Calling function info\n-- Generated by the SimpleSpy serializer\n\n" .. tostring(selected.Function))
+            end
+            TextLabel.Text = "Done! Function info generated by the SimpleSpy Serializer."
+        end
+    end
+)
+
+--- Clears the Remote logs
+newButton(
+    "Clr Logs",
+    function() return "Click to clear logs" end,
+    function()
+        TextLabel.Text = "Clearing..."
+        logs = {}
+        for _, v in pairs(LogList:GetChildren()) do
+            if not v:IsA("UIListLayout") then
+                v:Destroy()
+            end
+        end
+        codebox:setRaw("")
+        selected = nil
+        TextLabel.Text = "Logs cleared!"
+    end
+)
+
+--- Excludes the selected.Log Remote from the RemoteSpy
+newButton(
+    "Exclude (i)",
+    function() return "Click to exclude this Remote.\nExcluding a remote makes SimpleSpy ignore it, but it will continue to be usable." end,
+    function()
+        if selected then
+            blacklist[selected.Remote] = true
+            TextLabel.Text = "Excluded!"
+        end
+    end
+)
+
+--- Excludes all Remotes that share the same name as the selected.Log remote from the RemoteSpy
+newButton(
+    "Exclude (n)",
+    function() return "Click to exclude all remotes with this name.\nExcluding a remote makes SimpleSpy ignore it, but it will continue to be usable." end,
+    function()
+        if selected then
+            blacklist[selected.Name] = true
+            TextLabel.Text = "Excluded!"
+        end
+    end
+)
+
+--- clears blacklist
+newButton(
+    "Clr Blacklist",
+    function() return "Click to clear the blacklist.\nExcluding a remote makes SimpleSpy ignore it, but it will continue to be usable." end,
+    function()
+        blacklist = {}
+        TextLabel.Text = "Blacklist cleared!"
+    end
+)
+
+--- Prevents the selected.Log Remote from firing the server (still logged)
+newButton(
+    "Block (i)",
+    function() return "Click to stop this remote from firing.\nBlocking a remote won't remove it from SimpleSpy logs, but it will not continue to fire the server." end,
+    function()
+        if selected then
+            blocklist[selected.Remote] = true
+            TextLabel.Text = "Excluded!"
+        end
+    end
+)
+
+--- Prevents all remotes from firing that share the same name as the selected.Log remote from the RemoteSpy (still logged)
+newButton(
+    "Block (n)",
+    function() return "Click to stop remotes with this name from firing.\nBlocking a remote won't remove it from SimpleSpy logs, but it will not continue to fire the server." end,
+    function()
+        if selected then
+            blocklist[selected.Name] = true
+            TextLabel.Text = "Excluded!"
+        end
+    end
+)
+
+--- clears blacklist
+newButton(
+    "Clr Blocklist",
+    function() return "Click to stop blocking remotes.\nBlocking a remote won't remove it from SimpleSpy logs, but it will not continue to fire the server." end,
+    function()
+        blocklist = {}
+        TextLabel.Text = "Blocklist cleared!"
+    end
+)
+
+--- Attempts to decompile the source script
+newButton(
+    "Decompile",
+    function() return "Attempts to decompile source script\nWARNING: Not super reliable, nil == could not find" end,
+    function()
+        if selected then
+            if selected.Source then
+                codebox:setRaw(decompile(selected.Source))
+                TextLabel.Text = "Done!"
+            else
+                TextLabel.Text = "Source not found!"
+            end
+        end
+    end
+)
+
+newButton(
+    "Disable Info",
+    function() return string.format("[%s] Toggle function info (because it can cause lag in some games)", funcEnabled and "ENABLED" or "DISABLED") end,
+    function()
+        funcEnabled = not funcEnabled
+        TextLabel.Text = string.format("[%s] Toggle function info (because it can cause lag in some games)", funcEnabled and "ENABLED" or "DISABLED")
+    end
+)
+
+newButton(
+    "Autoblock",
+    function() return string.format("[%s] [BETA] Intelligently detects and excludes spammy remote calls from logs", autoblock and "ENABLED" or "DISABLED") end,
+    function()
+        autoblock = not autoblock
+        TextLabel.Text = string.format("[%s] [BETA] Intelligently detects and excludes spammy remote calls from logs", autoblock and "ENABLED" or "DISABLED")
+        history = {}
+        excluding = {}
+    end
+)
+
+newButton(
+    "CallingScript",
+    function() return string.format("[%s] [UNSAFE] Uses 'getcallingscript' to get calling script for Decompile and GetScript. Much more reliable, but opens up SimpleSpy to detection and/or instability.", useGetCallingScript and "ENABLED" or "DISABLED") end,
+    function()
+        useGetCallingScript = not useGetCallingScript
+        TextLabel.Text = string.format("[%s] [UNSAFE] Uses 'getcallingscript' to get calling script for Decompile and GetScript. Much more reliable, but opens up SimpleSpy to detection and/or instability.", useGetCallingScript and "ENABLED" or "DISABLED")
+    end
+)
+
+newButton(
+    "KeyToString",
+    function() return string.format("[%s] [BETA] Uses an experimental new function to replicate Roblox's behavior when a non-primitive type is used as a key in a table. Still in development and may not properly reflect tostringed (empty) userdata.", keyToString and "ENABLED" or "DISABLED") end,
+    function()
+        keyToString = not keyToString
+        TextLabel.Text = string.format("[%s] [BETA] Uses an experimental new function to replicate Roblox's behavior when a non-primitive type is used as a key in a table. Still in development and may not properly reflect tostringed (empty) userdata.", keyToString and "ENABLED" or "DISABLED")
+    end
+)
+
+end)
+
+
+UniversalSection:NewButton("DarkDex", "Executes DarkDex", function()
+
+	loadstring(game:GetObjects("rbxassetid://418957341")[1].Source)()
+
+	-- Dex v3
+
+end)
+
+HubsSections:NewButton("EZHub", 'Executes EZHub', function()
+	
+	--loadstring(game:HttpGet('https://raw.githubusercontent.com/debug420/Ez-Industries-Launcher-Data/master/Launcher.lua'))()
+
+end)
+
+
+HubsSections:NewButton("SniffHub", 'Executes Sniff Hub', function()
+
+	loadstring(game:HttpGet('https://raw.githubusercontent.com/2dgeneralspam1/Sniff-Hub/main/Sniff%20Hub'))()
+
+end)
+
+
+HubsSections:NewButton("FathomHub", 'Executes Fathom Hub', function()
+
+	loadstring(game:HttpGet('https://pastebin.com/raw/UmhaEvTT'))()
+
+end)
 
 
 GamesSection:NewButton("MeepCity Incode Version", "Executes a Script made by Loadstring And Danny", function()
