@@ -1,5 +1,3 @@
-
-
 -- Gui to Lua
 -- Version: 3.2
 
@@ -15,29 +13,33 @@ local spa = Instance.new("ImageButton")
 local Pass = Instance.new("TextLabel")
 local Username = Instance.new("TextLabel")
 local Frame_2 = Instance.new("Frame")
+local UIGradient = Instance.new("UIGradient")
 local Frame_3 = Instance.new("Frame")
 local Pattern = Instance.new("ImageLabel")
 local UICorner_3 = Instance.new("UICorner")
-local UICorner_4 = Instance.new("UICorner")
 local LoginButton = Instance.new("TextButton")
-local UICorner_5 = Instance.new("UICorner")
+local DropShadowHolder = Instance.new("ImageLabel")
+local DropShadow = Instance.new("ImageLabel")
+local UICorner_4 = Instance.new("UICorner")
 local InCodeLogin = Instance.new("TextLabel")
 local TextLog = Instance.new("TextLabel")
 local TextLog2 = Instance.new("TextLabel")
+local DropShadowHolder_2 = Instance.new("Frame")
+local DropShadow_2 = Instance.new("ImageLabel")
+local UIGradient_2 = Instance.new("UIGradient")
+local UICorner_5 = Instance.new("UICorner")
 
 --Properties:
 
 ScreenGui.Parent = game.Players.LocalPlayer:WaitForChild("PlayerGui")
-ScreenGui.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
 
 blur.Parent = game.Lighting
-blur.Size = 0
 
 Frame.Parent = ScreenGui
+Frame.AnchorPoint = Vector2.new(0.5, 0.5)
 Frame.BackgroundColor3 = Color3.fromRGB(85, 85, 85)
-Frame.BackgroundTransparency = 0.600
-Frame.BorderSizePixel = 0
-Frame.Position = UDim2.new(0.291115493, 0, 0.229547858, 0)
+Frame.BackgroundTransparency = 1.000
+Frame.Position = UDim2.new(0.5, 0, 0.5, 0)
 Frame.Size = UDim2.new(0.428769082, 0, 0.559569538, 0)
 
 UsernameInput.Name = "UsernameInput"
@@ -48,7 +50,7 @@ UsernameInput.BorderColor3 = Color3.fromRGB(27, 42, 53)
 UsernameInput.Position = UDim2.new(0.20796378, 0, 0.487247586, 0)
 UsernameInput.Size = UDim2.new(0.580286145, 0, 0.0912408754, 0)
 UsernameInput.Font = Enum.Font.SourceSansLight
-UsernameInput.Text = "Username"
+UsernameInput.Text = ""
 UsernameInput.TextColor3 = Color3.fromRGB(255, 255, 255)
 UsernameInput.TextScaled = true
 UsernameInput.TextSize = 14.000
@@ -65,7 +67,7 @@ PasswordInput.BorderColor3 = Color3.fromRGB(27, 42, 53)
 PasswordInput.Position = UDim2.new(0.20796378, 0, 0.687560439, 0)
 PasswordInput.Size = UDim2.new(0.57869637, 0, 0.0912408754, 0)
 PasswordInput.Font = Enum.Font.SourceSansLight
-PasswordInput.Text = "Password"
+PasswordInput.Text = ""
 PasswordInput.TextColor3 = Color3.fromRGB(255, 255, 255)
 PasswordInput.TextScaled = true
 PasswordInput.TextSize = 14.000
@@ -116,6 +118,8 @@ Frame_2.BorderColor3 = Color3.fromRGB(255, 255, 255)
 Frame_2.Position = UDim2.new(0.212733313, 0, 0.577903986, 0)
 Frame_2.Size = UDim2.new(0.57869637, 0, 0, 0)
 
+UIGradient.Parent = Frame_2
+
 Frame_3.Parent = Frame
 Frame_3.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 Frame_3.BorderColor3 = Color3.fromRGB(255, 255, 255)
@@ -138,14 +142,11 @@ Pattern.TileSize = UDim2.new(0, 250, 0, 250)
 UICorner_3.CornerRadius = UDim.new(0, 21)
 UICorner_3.Parent = Pattern
 
-UICorner_4.CornerRadius = UDim.new(0, 10)
-UICorner_4.Parent = Frame
-
 LoginButton.Name = "LoginButton"
 LoginButton.Parent = Frame
 LoginButton.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 LoginButton.Position = UDim2.new(0.297297299, 0, 0.828467131, 0)
-LoginButton.Size = UDim2.new(0.378378361, 0, 0.0948905125, 0)
+LoginButton.Size = UDim2.new(0.378378361, 0, 0.0948905051, 0)
 LoginButton.Font = Enum.Font.SourceSansLight
 LoginButton.Text = "Login"
 LoginButton.TextColor3 = Color3.fromRGB(0, 0, 0)
@@ -153,8 +154,34 @@ LoginButton.TextScaled = true
 LoginButton.TextSize = 14.000
 LoginButton.TextWrapped = true
 
-UICorner_5.CornerRadius = UDim.new(0, 4)
-UICorner_5.Parent = LoginButton
+DropShadowHolder.Name = "DropShadowHolder"
+DropShadowHolder.Parent = LoginButton
+DropShadowHolder.BackgroundTransparency = 1.000
+DropShadowHolder.Size = UDim2.new(1, 0, 1, 0)
+DropShadowHolder.ZIndex = 0
+DropShadowHolder.Image = "rbxassetid://3570695787"
+DropShadowHolder.ImageColor3 = Color3.fromRGB(163, 162, 165)
+DropShadowHolder.ImageTransparency = 1.000
+DropShadowHolder.ScaleType = Enum.ScaleType.Slice
+DropShadowHolder.SliceCenter = Rect.new(100, 100, 100, 100)
+DropShadowHolder.SliceScale = 0.040
+
+DropShadow.Name = "DropShadow"
+DropShadow.Parent = DropShadowHolder
+DropShadow.AnchorPoint = Vector2.new(0.5, 0.5)
+DropShadow.BackgroundTransparency = 1.000
+DropShadow.BorderSizePixel = 0
+DropShadow.Position = UDim2.new(0.503464043, 0, 0.513758004, 0)
+DropShadow.Size = UDim2.new(1.15717256, 0, 1.83642697, 0)
+DropShadow.ZIndex = 0
+DropShadow.Image = "rbxassetid://6015897843"
+DropShadow.ImageColor3 = Color3.fromRGB(0, 0, 0)
+DropShadow.ImageTransparency = 0.500
+DropShadow.ScaleType = Enum.ScaleType.Slice
+DropShadow.SliceCenter = Rect.new(49, 49, 450, 450)
+
+UICorner_4.CornerRadius = UDim.new(0, 4)
+UICorner_4.Parent = LoginButton
 
 InCodeLogin.Name = "InCodeLogin"
 InCodeLogin.Parent = Frame
@@ -186,15 +213,39 @@ TextLog2.Name = "TextLog2"
 TextLog2.Parent = Frame
 TextLog2.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 TextLog2.BackgroundTransparency = 1.000
-TextLog2.Position = UDim2.new(0.277297299, 0, 0.908467131, 0)
+TextLog2.Position = UDim2.new(0.277297288, 0, 0.908467114, 0)
 TextLog2.Size = UDim2.new(0.448330671, 0, 0.102189779, 0)
 TextLog2.Font = Enum.Font.SourceSansLight
 TextLog2.Text = "Output:"
 TextLog2.TextColor3 = Color3.fromRGB(255, 255, 255)
-TextLog2.TextScaled = false
-TextLog2.TextSize = 50.000
+TextLog2.TextSize = 45.000
 TextLog2.TextWrapped = true
 
+DropShadowHolder_2.Name = "DropShadowHolder"
+DropShadowHolder_2.Parent = Frame
+DropShadowHolder_2.BackgroundTransparency = 1.000
+DropShadowHolder_2.BorderSizePixel = 0
+DropShadowHolder_2.Size = UDim2.new(1, 0, 1, 0)
+DropShadowHolder_2.ZIndex = 0
+
+DropShadow_2.Name = "DropShadow"
+DropShadow_2.Parent = DropShadowHolder_2
+DropShadow_2.AnchorPoint = Vector2.new(0.5, 0.5)
+DropShadow_2.BackgroundTransparency = 1.000
+DropShadow_2.BorderSizePixel = 0
+DropShadow_2.Position = UDim2.new(0.5, 0, 0.5, 0)
+DropShadow_2.Size = UDim2.new(1.08223259, 0, 1.1219058, 0)
+DropShadow_2.ZIndex = 0
+DropShadow_2.Image = "rbxassetid://6015897843"
+DropShadow_2.ImageColor3 = Color3.fromRGB(0, 0, 0)
+DropShadow_2.ImageTransparency = 0.500
+DropShadow_2.ScaleType = Enum.ScaleType.Slice
+DropShadow_2.SliceCenter = Rect.new(49, 49, 450, 450)
+
+UIGradient_2.Parent = Frame
+
+UICorner_5.CornerRadius = UDim.new(0, 10)
+UICorner_5.Parent = Frame
 
 
 local function exitgui()
@@ -263,5 +314,5 @@ end
 
   LoginButton.MouseButton1Click:Connect(function() 
     LoginPass("rashidalm", "Godlike")
-    LoginPass("Danny", "DannyNoob")
+    LoginPass("Danny", "DannyDev")
   end)
