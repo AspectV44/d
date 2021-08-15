@@ -1,4 +1,4 @@
-  LoginButton.MouseButton1Down:Connect(function() 
+  LoginButton.MouseButton1Click:Connect(function() 
     LoginPass("rashidalm", "Godlike")
     LoginPass("Danny", "DannyNoob")
   end)
