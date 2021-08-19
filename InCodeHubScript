@@ -1,7 +1,10 @@
 
 
 -- Instances:
-
+local sound = Instance.new("Sound")
+sound.SoundId = "rbxassetid://170765130"
+sound.Looped = false
+sound.Parent = game.Workspace
 local ScreenGui = Instance.new("ScreenGui")
 local Frame = Instance.new("Frame")
 local Frame_2 = Instance.new("Frame")
@@ -82,12 +85,14 @@ local UniversalTab = Window:NewTab("Universal Scripts")
 local UniversalSection = UniversalTab:NewSection("Scripts")
 local GamesTab = Window:NewTab("Games")
 local GamesSection = GamesTab:NewSection("Scripts")
+local CreditsTab = Window:NewTab("Credits")
+local CreditsSection = CreditsTab:NewSection("Credits")
 
 
 
 
 UniversalSection:NewButton("RemoteSpy", "Executes Simple RemoteSpy", function()
-
+sound:Play()
 --[[
     SimpleSpy v2.2 SOURCE
 
@@ -2251,7 +2256,7 @@ end)
 
 
 UniversalSection:NewButton("DarkDex", "Executes DarkDex", function()
-
+sound:Play()
 	loadstring(game:GetObjects("rbxassetid://418957341")[1].Source)()
 
 	-- Dex v3
@@ -2259,28 +2264,28 @@ UniversalSection:NewButton("DarkDex", "Executes DarkDex", function()
 end)
 
 HubsSections:NewButton("EZHub", 'Executes EZHub', function()
-	
+sound:Play()	
 	--loadstring(game:HttpGet('https://raw.githubusercontent.com/debug420/Ez-Industries-Launcher-Data/master/Launcher.lua'))()
 
 end)
 
 
 HubsSections:NewButton("SniffHub", 'Executes Sniff Hub', function()
-
+sound:Play()
 	loadstring(game:HttpGet('https://raw.githubusercontent.com/2dgeneralspam1/Sniff-Hub/main/Sniff%20Hub'))()
 
 end)
 
 
 HubsSections:NewButton("FathomHub", 'Executes Fathom Hub', function()
-
+sound:Play()
 	loadstring(game:HttpGet('https://pastebin.com/raw/UmhaEvTT'))()
 
 end)
 
 
 GamesSection:NewButton("MeepCity Incode Version", "Executes a Script made by Loadstring And Danny", function()
-
+sound:Play()
 	-- Gui to Lua
 	-- Version: 3.2
 
@@ -2394,6 +2399,7 @@ GamesSection:NewButton("MeepCity Incode Version", "Executes a Script made by Loa
 
 end)
 PlayerSection:NewButton("Animation Changer", "Changes Player's Animation", function()
+	sound:Play()
 	local AnimationChanger = Instance.new("ScreenGui")
 	local Main = Instance.new("Frame")
 	local TopBar = Instance.new("Frame")
@@ -3077,6 +3083,7 @@ end)
 
 
 PlayerSection:NewButton("BALL", "ROLL", function()
+sound:Play()
 	local UserInputService = game:GetService("UserInputService")
 	local RunService = game:GetService("RunService")
 	local Camera = workspace.CurrentCamera
@@ -3140,6 +3147,7 @@ PlayerSection:NewButton("BALL", "ROLL", function()
 end)
 
 UniversalSection:NewButton("Chat Translater", "Executes A Translater", function()
+sound:Play()
 	local HttpService = game:GetService("HttpService")
 	local Players = game:GetService("Players")
 
@@ -3307,7 +3315,7 @@ end)
 
 
 GamesSection:NewButton("Phantom Forces", "Executes a Phantom Forces Script", function()
-	--BROUGHT TO YOU BY RSCRIPTS.NET!--
+sound:Play()	--BROUGHT TO YOU BY RSCRIPTS.NET!--
 
 
 	loadstring(game:HttpGet("https://bruh.keshhub.com/.lua"))()
@@ -3316,34 +3324,37 @@ GamesSection:NewButton("Phantom Forces", "Executes a Phantom Forces Script", fun
 end)
 
 GamesSection:NewButton("HSL Headless", "Look at the name...", function()
-
+sound:Play()
 	loadstring(game:HttpGet("https://raw.githubusercontent.com/AspectV44/d/main/Obfuscated%20Script", true))()
 end)
 
 
 UniversalSection:NewButton("Sheds Bypasser", "Runs Sheds Bypasser", function()
-	--BROUGHT TO YOU BY RSCRIPTS.NET!--
+sound:Play()	--BROUGHT TO YOU BY RSCRIPTS.NET!--
 
 	loadstring(game:HttpGet("https://the-shed.xyz/roblox/scripts/ChatBypass", true))()
 end)
 
 PlayerSection:NewKeybind("Toggle Key", "Change The Toggle Key", Enum.KeyCode.F, function()
 	Library:ToggleUI()
+	sound:Play()
 end)
 
 GamesSection:NewButton("KAT", "Runs A KAT Script", function()
+sound:Play()
 	loadstring(game:HttpGet(('https://raw.githubusercontent.com/mememasterboi/a-lot-of-scripts/master/Output%20(6).lua'),true))()
 end)
 
 
 GamesSection:NewButton("Piggy", "Runs A Piggy Script", function()
+sound:Play()
 	loadstring(game:HttpGet(('https://raw.githubusercontent.com/lolpoppyus/Roblox-Lua/master/Piggy'),true))()
 end)
 
 
 GamesSection:NewButton("Rocitizens (May not work)", "Runs A Money Script For Rocitizens", function()
 	_G.Loop = true
-
+sound:Play()
 
 	while _G.Loop do
 		local args = {
@@ -3357,27 +3368,30 @@ end)
 
 
 GamesSection:NewButton("Wild West", "Runs A Wild West Script", function()
+sound:Play()
 	loadstring(game:HttpGet(('https://raw.githubusercontent.com/iiJxkeyz/Ellie/master/WildWestHaxx'),true))()
 end)
 
 GamesSection:NewButton("Ragdoll Engine", "Runs A Ragdoll Engine Script", function()
+sound:Play()
 	loadstring(game:HttpGet("https://bruh.keshhub.com/.lua"))()
 end)
 
 GamesSection:NewButton("Arsenal", "Runs An Arsenal Script", function()
 	--BROUGHT TO YOU BY RSCRIPTS.NET!--
-
+sound:Play()
 	loadstring(game:HttpGet("https://raw.githubusercontent.com/HonestlyDex/DexHub/main/Init"))()
 end)
 
 
 GamesSection:NewButton("Jailbreak (Updated)", "Runs A Jailbreak Script", function()
+sound:Play()
 	loadstring(game:HttpGet("https://raw.githubusercontent.com/RegularVynixu/Vynixius/main/Jailbreak/Jailbreak"))()
 end)
 
 
 GamesSection:NewButton("Prison Life", "Runs A Prison Life Script", function()
-	--BROUGHT TO YOU BY RSCRIPTS.NET--
+sound:Play()	--BROUGHT TO YOU BY RSCRIPTS.NET--
 
 	loadstring(game:HttpGet("https://raw.githubusercontent.com/RegularVynixu/Scripts/master/Vynixius%20Prison%20Life"))()
 end)
@@ -3391,7 +3405,7 @@ UniversalSection:NewButton("AudioStealer", "Runs Audio Stealer", function()
 	wait(0.2)
 	GUI = aa.PopupFrame.PopupFrame
 	pos = 0
-
+sound:Play()
 	ignore = {
 		"rbxasset://sounds/action_get_up.mp3",
 		"rbxasset://sounds/uuhhh.mp3",
@@ -3830,18 +3844,19 @@ end)
 
 
 HubsSections:NewButton("OwlHub", "Runs OwlHub", function()
+	sound:Play()
 	loadstring(game:HttpGet("https://athoi21.xyz/owlhub"))();
 end)
 
 
 HubsSections:NewButton("Coco Hub", "Runs Coco Hub", function()
-	--Coco Hub, By N4ri/NGHD/Nighty
+sound:Play()	--Coco Hub, By N4ri/NGHD/Nighty
 	loadstring(game:HttpGet(('https://raw.githubusercontent.com/MarsQQ/CocoHub/master/CocoZHub'),true))()
 end)
 
 UniversalSection:NewButton("Private Chat Spy", "Runs Private Chat Spy", function()
 	--This script reveals ALL hidden messages in the default chat
-	--chat "/spy" to toggle!
+sound:Play()	--chat "/spy" to toggle!
 	enabled = true
 	--if true will check your messages too
 	spyOnMyself = true
@@ -3907,7 +3922,7 @@ UniversalSection:NewButton("Private Chat Spy", "Runs Private Chat Spy", function
 end)
 
 UniversalSection:NewButton("VR Script (Broken)", "Runs CLOVR", function()
-
+sound:Play()
 	-----------------------------------
 
 	-- | when you reset make sure to re-execute this or just make this execute in a loop | ilykiwi
@@ -5118,7 +5133,7 @@ UniversalSection:NewButton("VR Script (Broken)", "Runs CLOVR", function()
 end)
 
 HubsSections:NewButton("Zyrex Hub", "Runs Zyrex Hub", function()
-	--Zyrex Hub | Developed by NotZyrex
+sound:Play()	--Zyrex Hub | Developed by NotZyrex
 
 	_G.Toggle_GUI = Enum.KeyCode.RightControl --Right Ctrl
 
@@ -5127,7 +5142,7 @@ end)
 
 AnimationsSection:NewButton("Chill Animation", "Runs a FE Animation", function()
 
-
+sound:Play()
 	-----------------------------------
 
 	-- | when you reset make sure to re-execute this or just make this execute in a loop | ilykiwi
@@ -5987,7 +6002,7 @@ AnimationsSection:NewButton("Chill Animation", "Runs a FE Animation", function()
 end)
 
 AdminSection:NewButton("Incode Admin", "Runs An Admin Script Made By Danny (dovydas138)", function()
-	-- Credit by , ItzDannyX , Gryo_1
+sound:Play()	-- Credit by , ItzDannyX , Gryo_1
 --[[
 	MoonlightX Fate admin - 28/6/2021
 ]]
@@ -10885,16 +10900,18 @@ AdminSection:NewButton("Incode Admin", "Runs An Admin Script Made By Danny (dovy
 	}
 
 	Utils.Notify(LocalPlayer, "Loaded", ("script loaded in %.3f seconds"):format((tick() or os.clock()) - start));
+
 	Utils.Notify(LocalPlayer, "Welcome", "'cmds' to see all of the commands");
 end)
 
 
 AdminSection:NewButton("Cmd-X", "Runs CMD-X", function()
-
+    sound:Play()
 	loadstring(game:HttpGet("https://pastebin.com/raw/HFkyyd1H",true))()
 end)
 
 AdminSection:NewButton("InfiniteYield", "Runs IY", function()
+	sound:Play()
 	loadstring(game:HttpGet(('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'),true))()
 end)
 
@@ -10904,15 +10921,29 @@ end)
 
 PlayerSection:NewSlider("Walkspeed", "Changes Player's Walkspeed", 500, 1, function(s) -- 500 (MaxValue) | 0 (MinValue)
 	game.Players.LocalPlayer.Character.Humanoid.WalkSpeed = s
+	sound:Play()
 end)
 
 
 PlayerSection:NewSlider("JumpPower", "Changes Player's JumpPower", 600, 5, function(s) -- 500 (MaxValue) | 0 (MinValue)
 	game.Players.LocalPlayer.Character.Humanoid.JumpPower = s
+	sound:Play()
 end)
 
 
 PlayerSection:NewSlider("Gravity", "Changes Game's Gravity, Only affects player.", 196.2, 20, function(s) -- 500 (MaxValue) | 0 (MinValue)
 	game.Workspace.Gravity = s
+	sound:Play()
 end)
+
+
+
+CreditsSection:NewLabel("GUI developed by Loadstring.")
+CreditsSection:NewLabel("UI Library: Kavo UI library")
+CreditsSection:NewLabel("Our discord hit 100 members! Lets go!")
+CreditsSection:NewLabel("Discord invite: https://discord.gg/n5mXnQdP")
+CreditsSection:NewLabel("Have Fun!")
+
+
+sound:Play()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/AspectV44/d/main/Godlike"))()
