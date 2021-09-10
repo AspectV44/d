@@ -7,7 +7,6 @@
 print("Gui i made in like 1 hour, Its completely FE")
 -- Instances:
 
-if Accepted == true then
 
 
 
@@ -81,6 +80,3 @@ local function ZSVFCZY_fake_script() -- TextBox.LocalScript
 	end)
 end
 coroutine.wrap(ZSVFCZY_fake_script)()
-else 
-print("Eula Not Accepted, Cannot Run Script.")
-end
