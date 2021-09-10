@@ -90,6 +90,11 @@ local CreditsSection = CreditsTab:NewSection("Credits")
 
 
 
+GamesSection:NewButton("Brookhaven Audio Player", "Executes Brookhaven Audio Player By Loadstring", function()
+loadstring(game:HttpGet(("https://raw.githubusercontent.com/AspectV44/d/main/Brookhaven%20Audio%20Player"), true))()
+
+end)
+
 
 UniversalSection:NewButton("RemoteSpy", "Executes Simple RemoteSpy", function()
 sound:Play()
