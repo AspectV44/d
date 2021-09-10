@@ -7,7 +7,7 @@
 print("Gui i made in like 1 hour, Its completely FE")
 -- Instances:
 
-if Accepted = true then
+if Accepted == true then
 
 
 
