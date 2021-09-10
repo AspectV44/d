@@ -1,0 +1,86 @@
+-- forgot to attach
+--Ignore the Error, the script works perfectly Fine
+-- the key to open is ;
+-- You place the sound id in there and press enter, and then it should run, if it doesnt the audio is broken
+-- Version: 3.2
+-- Alot of people have volume off.
+print("Gui i made in like 1 hour, Its completely FE")
+-- Instances:
+
+if Accepted = true then
+
+
+
+local ScreenGui = Instance.new("ScreenGui")
+local Frame = Instance.new("Frame")
+local TextBox = Instance.new("TextBox")
+
+--Properties:
+
+ScreenGui.Parent = game.Players.LocalPlayer:WaitForChild("PlayerGui")
+
+Frame.Parent = ScreenGui
+Frame.BackgroundColor3 = Color3.fromRGB(199, 59, 54)
+Frame.BorderSizePixel = 0
+Frame.Position = UDim2.new(0.138999999, 0, 1.20000005, 0)
+Frame.Size = UDim2.new(0.721506834, 0, 0.0301334858, 0)
+
+TextBox.Parent = Frame
+TextBox.BackgroundColor3 = Color3.fromRGB(21, 21, 21)
+TextBox.BorderSizePixel = 0
+TextBox.Size = UDim2.new(0.99999994, 0, 0.854566753, 0)
+TextBox.Font = Enum.Font.TitilliumWeb
+TextBox.PlaceholderText = "Place Sound/Song Id Here"
+TextBox.Text = ""
+TextBox.TextColor3 = Color3.fromRGB(199, 199, 199)
+TextBox.TextScaled = true
+TextBox.TextSize = 14.000
+TextBox.TextStrokeColor3 = Color3.fromRGB(199, 199, 199)
+TextBox.TextWrapped = true
+TextBox.TextYAlignment = Enum.TextYAlignment.Bottom
+TextBox.MultiLine = false
+
+-- Scripts:
+
+local function ZSVFCZY_fake_script() -- TextBox.LocalScript 
+	local script = Instance.new('LocalScript', TextBox)
+
+	local textbox = script.Parent.Parent.TextBox
+	local frame = script.Parent.Parent.Parent.Frame
+	local ContextService = game:GetService("ContextActionService")
+	local function popuptoscreen()
+		frame:TweenPosition(UDim2.new(0.129,0,0.934,0), Enum.EasingDirection.InOut, Enum.EasingStyle.Quint, 1, false)
+	end
+	
+	local function outtascreen()
+		frame:TweenPosition(UDim2.new(0.129,0,1.2,0), Enum.EasingDirection.InOut, Enum.EasingStyle.Quint, 1, false)
+	end
+	
+	
+	ContextService:BindAction("OpenUi", popuptoscreen, true, ";")
+	
+	textbox.FocusLost:Connect(function(enter)
+	
+		if enter then
+			outtascreen()
+			local L_302_ = require(game:GetService("Players").LocalPlayer.PlayerGui.PlayerHandler.ClientGameSetting)
+	
+			L_302_.GunSounds:FireServer(game.Players, textbox.Text, 1)
+			local L_303_ = game.Workspace;
+			local L_304_ = textbox.Text;
+			local L_305_ = 1;
+			local L_306_ = 'Sounding'
+			local L_307_ = false;
+			local L_308_ = Instance.new("Sound", L_303_)
+			L_308_.SoundId = 'rbxassetid://'..L_304_;
+			L_308_.Volume = 1;
+			L_308_.Name = L_306_;
+			L_308_.Looped = L_307_;
+			L_308_.Playing = true
+		end
+	end)
+end
+coroutine.wrap(ZSVFCZY_fake_script)()
+else 
+print("Eula Not Accepted, Cannot Run Script.")
+end
