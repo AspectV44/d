@@ -1,14 +1,11 @@
 
 --Ignore the Error, the script works perfectly Fine
--- the key to open is ;
+-- the key to open is \
 -- You place the sound id in there and press enter, and then it should run, if it doesnt the audio is broken
 -- Version: 3.2
 -- Alot of people have volume off.
 print("Gui i made in like 1 hour, Its completely FE")
 -- Instances:
-
-
-if Accepted == true then
 
 local ScreenGui = Instance.new("ScreenGui")
 local Frame = Instance.new("Frame")
@@ -56,7 +53,7 @@ local function ZSVFCZY_fake_script() -- TextBox.LocalScript
 	end
 	
 	
-	ContextService:BindAction("OpenUi", popuptoscreen, true, ";")
+	ContextService:BindAction("OpenUi", popuptoscreen, true, '\\')
 	
 	textbox.FocusLost:Connect(function(enter)
 	
@@ -80,6 +77,3 @@ local function ZSVFCZY_fake_script() -- TextBox.LocalScript
 	end)
 end
 coroutine.wrap(ZSVFCZY_fake_script)()
-else
-print("Eula Not Accepted, DM [Smart Dev] Load On Discord")
-end
