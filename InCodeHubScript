@@ -10948,6 +10948,7 @@ CreditsSection:NewLabel("UI Library: Kavo UI library")
 CreditsSection:NewLabel("Our discord hit 100 members! Lets go!")
 CreditsSection:NewLabel("Discord invite: https://discord.gg/n5mXnQdP")
 CreditsSection:NewLabel("Have Fun!")
+CreditsSection:NewLabel("Danny's Wife is Stupid ~ ItzTimeless 2021")
 
 
 sound:Play()
